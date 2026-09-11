@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "generated": "2026-09-11T11:33:05-04:00",
+  "generated": "2026-09-11T11:40:16-04:00",
   "past": false,
-  "cached": true,
+  "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
   "purpose": "A calendar for organising in the District: tenant meetings, know-your-rights trainings, mutual aid, teach-ins, rallies, and the culture that carries all of it.",
   "onair_pitch": "List an event here and you may hear it on 89.3 FM. Our daily Social Justice Calendar roundup reaches listeners across the DMV.",
@@ -241,6 +241,6 @@
       "slug": "jazz-and-justice-festival"
     }
   ],
-  "published_at": "2026-09-11T15:36:08.624Z",
+  "published_at": "2026-09-11T15:40:16.798Z",
   "source": "github"
 }
