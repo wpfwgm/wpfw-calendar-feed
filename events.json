@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-11T11:40:16-04:00",
+  "generated": "2026-09-11T18:27:51-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 6,
+  "count": 7,
   "events": [
     {
       "id": "wpfw-20260903-CBD4",
@@ -171,6 +171,42 @@
       "slug": "wpfw-4th-50th-year-benefit-concert-an-afternoon-of-jazz-and-justice"
     },
     {
+      "id": "wpfw-20260911-5BF4",
+      "title": "Finance Committee Meeting",
+      "organization": "WPFW 89.3 FM",
+      "short_description": "Attend WPFW’s Finance Committee Meeting — Help Sustain Voices That Matter\n\nWPFW’s Finance Committee is where listener power meets practical stewardship. This committee oversees the station’s financial health, ensures responsible budgeting, and helps shape fundraising strategies that keep our programs on the air. If you care about independent, community-driven radio, your involvement matters.",
+      "full_description": "",
+      "start_datetime": "2026-09-14T19:00:00-04:00",
+      "end_datetime": "2026-09-14T23:59:00-04:00",
+      "all_day": false,
+      "venue_name": "",
+      "street_address": "",
+      "city": "",
+      "state": "DC",
+      "zip": "",
+      "online_url": "https://us06web.zoom.us/j/81356179093",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Labor & Workers",
+      "tags": [
+        "Labor & Workers"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "WPFW Finance Committee\nMonday, September 14, 2026\n7:00 PM ET\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/81356179093\nMeeting ID: 813 5617 9093\n---\nOne tap mobile\n+13017158592,,81356179093# US (Washington DC)\n+13126266799,,81356179093# US (Chicago)\n\nJoin instructions\nhttps://us06web.zoom.us/meetings/",
+      "access_features": [
+        "Livestreamed"
+      ],
+      "attendance_mode": "virtual",
+      "public_contact": "",
+      "series_id": "wpfw-20260911-5BF4",
+      "attendance_label": "Online",
+      "is_repeat": false,
+      "slug": "finance-committee-meeting"
+    },
+    {
       "id": "wpfw-20260909-D7DC",
       "title": "H Street Festival",
       "organization": "H Street Festival",
@@ -241,6 +277,6 @@
       "slug": "jazz-and-justice-festival"
     }
   ],
-  "published_at": "2026-09-11T15:40:16.798Z",
+  "published_at": "2026-09-11T22:27:51.691Z",
   "source": "github"
 }
