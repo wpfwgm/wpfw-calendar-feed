@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-11T20:57:52-04:00",
+  "generated": "2026-09-12T01:42:51-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,43 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 7,
+  "count": 6,
   "events": [
-    {
-      "id": "wpfw-20260903-CBD4",
-      "title": "Community Organizing Fellowship",
-      "organization": "Rising Organizers",
-      "short_description": "Rising Organizers sharing about their Community Organizing Fellowship.",
-      "full_description": "",
-      "start_datetime": "2026-09-11T18:00:00-04:00",
-      "end_datetime": "2026-09-11T19:30:00-04:00",
-      "all_day": false,
-      "venue_name": "DH Library",
-      "street_address": "3935 Benning Rd., NE",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "",
-      "online_url": "http://RisingOrganizers.org",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice",
-        "Youth & Education"
-      ],
-      "dcf_grantee": true,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "hybrid",
-      "public_contact": "",
-      "series_id": "wpfw-20260903-CBD4",
-      "attendance_label": "Both in person and online",
-      "is_repeat": false,
-      "slug": "community-organizing-fellowship"
-    },
     {
       "id": "wpfw-20260909-DD1B",
       "title": "9th Annual WPFW 5K Run/Walk for Total Fitness!",
@@ -277,6 +242,6 @@
       "slug": "jazz-and-justice-festival"
     }
   ],
-  "published_at": "2026-09-12T00:57:52.888Z",
+  "published_at": "2026-09-12T05:42:51.674Z",
   "source": "github"
 }
