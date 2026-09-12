@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-11T18:27:51-04:00",
+  "generated": "2026-09-11T20:57:52-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -188,7 +188,7 @@
       "cost_type": "free",
       "cost_amount": "",
       "ticket_url": "",
-      "category": "Labor & Workers",
+      "category": "",
       "tags": [
         "Labor & Workers"
       ],
@@ -277,6 +277,6 @@
       "slug": "jazz-and-justice-festival"
     }
   ],
-  "published_at": "2026-09-11T22:27:51.691Z",
+  "published_at": "2026-09-12T00:57:52.888Z",
   "source": "github"
 }
