@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-12T21:10:45-04:00",
+  "generated": "2026-09-14T00:10:44-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,42 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 4,
+  "count": 3,
   "events": [
-    {
-      "id": "wpfw-20260909-FCCB",
-      "title": "WPFW 4th 50th Year Benefit Concert: An Afternoon of Jazz & Justice",
-      "organization": "WPFW",
-      "short_description": "Join us for another afternoon of great jazz featuring the sounds of bassists Herman Burney and Kriss Funn.",
-      "full_description": "​With a tip of the hat to the late, great bassist Ray Brown, WPFW is proud to present Two Bass Hit, our fourth 50th year benefit concert. Join us for an afternoon of smooth vibes featuring two of the DMV’s finest bassists.\n\nTwo Bass Hit features Washington’s own Herman Burney jamming alongside trombonist Reginald Cyntje, while Baltimore’s Kris Funn brings back his DC JazzPrix-winning group, the CornerStore.\n\nWPFW is building a better world, one live jazz concert at a time. Don’t miss it!",
-      "start_datetime": "2026-09-13T16:00:00-04:00",
-      "end_datetime": "2026-09-13T18:00:00-04:00",
-      "all_day": false,
-      "venue_name": "Palisades Hub",
-      "street_address": "5200 Cathedral Avenue Northwest",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20016",
-      "online_url": "https://www.eventbrite.com/e/wpfw-4th-50th-year-benefit-concert-an-afternoon-of-jazz-justice-tickets-1996315079141?aff=oddtdtcreator",
-      "cost_type": "ticketed",
-      "cost_amount": "25",
-      "ticket_url": "https://www.eventbrite.com/e/wpfw-4th-50th-year-benefit-concert-an-afternoon-of-jazz-justice-tickets-1996315079141?aff=oddtdtcreator",
-      "category": "Arts & Culture",
-      "tags": [
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": true,
-      "image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1190236262%252F174554728373%252F1%252Foriginal.20260803-221000%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D1880%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.181%26f",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "hybrid",
-      "public_contact": "",
-      "series_id": "wpfw-20260909-FCCB",
-      "attendance_label": "Both in person and online",
-      "is_repeat": false,
-      "slug": "wpfw-4th-50th-year-benefit-concert-an-afternoon-of-jazz-and-justice"
-    },
     {
       "id": "wpfw-20260911-5BF4",
       "title": "Finance Committee Meeting",
@@ -172,6 +138,6 @@
       "slug": "jazz-and-justice-festival"
     }
   ],
-  "published_at": "2026-09-13T01:10:46.148Z",
+  "published_at": "2026-09-14T04:10:45.205Z",
   "source": "github"
 }
