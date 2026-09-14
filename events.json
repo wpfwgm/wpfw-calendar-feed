@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-14T00:10:44-04:00",
+  "generated": "2026-09-14T18:10:41-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -62,6 +62,7 @@
       ],
       "attendance_mode": "virtual",
       "public_contact": "",
+      "funders": "",
       "series_id": "wpfw-20260911-5BF4",
       "attendance_label": "Online",
       "is_repeat": false,
@@ -96,6 +97,7 @@
       "access_features": [],
       "attendance_mode": "in_person",
       "public_contact": "",
+      "funders": "",
       "series_id": "wpfw-20260909-D7DC",
       "attendance_label": "In person",
       "is_repeat": false,
@@ -132,12 +134,13 @@
       "access_features": [],
       "attendance_mode": "hybrid",
       "public_contact": "",
+      "funders": "",
       "series_id": "wpfw-20260909-C1A4",
       "attendance_label": "Both in person and online",
       "is_repeat": false,
       "slug": "jazz-and-justice-festival"
     }
   ],
-  "published_at": "2026-09-14T04:10:45.205Z",
+  "published_at": "2026-09-14T22:10:42.621Z",
   "source": "github"
 }
