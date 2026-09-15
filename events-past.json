@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-15T07:19:38-04:00",
+  "generated": "2026-09-15T12:57:56-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -63,8 +63,9 @@
       "attendance_mode": "virtual",
       "public_contact": "",
       "funders": "",
+      "cosponsors": "",
       "series_id": "wpfw-20260911-5BF4",
-      "attendance_label": "Online",
+      "attendance_label": "online",
       "is_repeat": false,
       "slug": "finance-committee-meeting"
     },
@@ -98,8 +99,9 @@
       "attendance_mode": "in_person",
       "public_contact": "",
       "funders": "",
+      "cosponsors": "",
       "series_id": "wpfw-20260909-FCCB",
-      "attendance_label": "In person",
+      "attendance_label": "in person",
       "is_repeat": false,
       "slug": "wpfw-4th-50th-year-benefit-concert-an-afternoon-of-jazz-and-justice"
     },
@@ -135,8 +137,9 @@
       "attendance_mode": "in_person",
       "public_contact": "",
       "funders": "",
+      "cosponsors": "",
       "series_id": "wpfw-20260903-962E",
-      "attendance_label": "In person",
+      "attendance_label": "in person",
       "is_repeat": false,
       "slug": "dc-statehood-townhall-lecture-on-josephine-butler-co-founder-of-dc-sta"
     },
@@ -170,6 +173,7 @@
       "attendance_mode": "",
       "public_contact": "",
       "funders": "",
+      "cosponsors": "",
       "series_id": "wpfw-20260909-DD1B",
       "attendance_label": "",
       "is_repeat": false,
@@ -206,12 +210,13 @@
       "attendance_mode": "hybrid",
       "public_contact": "",
       "funders": "",
+      "cosponsors": "",
       "series_id": "wpfw-20260903-CBD4",
-      "attendance_label": "Both in person and online",
+      "attendance_label": "both in person and online",
       "is_repeat": false,
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-09-15T11:19:39.366Z",
+  "published_at": "2026-09-15T16:57:57.496Z",
   "source": "github"
 }
