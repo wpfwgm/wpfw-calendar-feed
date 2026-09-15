@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-14T21:12:51-04:00",
+  "generated": "2026-09-14T21:27:51-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -77,15 +77,15 @@
       "start_datetime": "2026-09-16T18:30:00-04:00",
       "end_datetime": "2026-09-16T22:00:00-04:00",
       "all_day": false,
-      "venue_name": "Online: https://us06web.zoom.us/j/87035810487",
+      "venue_name": "",
       "street_address": "",
       "city": "",
       "state": "DC",
       "zip": "",
-      "online_url": "",
+      "online_url": "https://us06web.zoom.us/j/87035810487",
       "cost_type": "free",
       "cost_amount": "",
-      "ticket_url": "https://us06web.zoom.us/j/87035810487",
+      "ticket_url": "",
       "category": "",
       "tags": [
         "Racial Justice"
@@ -178,6 +178,6 @@
       "slug": "jazz-and-justice-festival"
     }
   ],
-  "published_at": "2026-09-15T01:12:51.895Z",
+  "published_at": "2026-09-15T01:27:51.834Z",
   "source": "github"
 }
