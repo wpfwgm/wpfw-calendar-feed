@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "generated": "2026-09-15T12:57:56-04:00",
+  "generated": "2026-09-17T04:10:44-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
-  "purpose": "A calendar for organising in the District: tenant meetings, know-your-rights trainings, mutual aid, teach-ins, rallies, and the culture that carries all of it.",
+  "purpose": "A calendar for organizing in the District: tenant meetings, know-your-rights trainings, mutual aid, teach-ins, rallies, and the culture that carries all of it.",
   "onair_pitch": "List an event here and you may hear it on 89.3 FM. Our daily Social Justice Calendar roundup reaches listeners across the DMV.",
   "broadcast_notice": "Listings may be featured in our daily Social Justice Calendar roundup on air. WPFW broadcasts across the DMV.",
   "notify": true,
@@ -29,8 +29,46 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 5,
+  "count": 6,
   "events": [
+    {
+      "id": "wpfw-20260914-9715",
+      "title": "Local Station Board Meeting",
+      "organization": "WPFW 89.3 FM",
+      "short_description": "The regular WPFW Local Station Board meeting. Open to the public.",
+      "full_description": "",
+      "start_datetime": "2026-09-16T18:30:00-04:00",
+      "end_datetime": "2026-09-16T22:00:00-04:00",
+      "all_day": false,
+      "venue_name": "",
+      "street_address": "",
+      "city": "",
+      "state": "DC",
+      "zip": "",
+      "online_url": "https://us06web.zoom.us/j/87035810487",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "",
+      "tags": [
+        "Racial Justice"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "Join Instructions\nhttps://us06web.zoom.us/j/87035810487\nMeeting ID: 870 3581 0487\nOne tap mobile\n+13126266799,,87035810487# US (Chicago)\n+16465588656,,87035810487# US (New York)\nDial",
+      "access_features": [
+        "Livestreamed"
+      ],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20260914-9715",
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "local-station-board-meeting"
+    },
     {
       "id": "wpfw-20260911-5BF4",
       "title": "Finance Committee Meeting",
@@ -217,6 +255,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-09-15T16:57:57.496Z",
+  "published_at": "2026-09-17T08:10:44.921Z",
   "source": "github"
 }
