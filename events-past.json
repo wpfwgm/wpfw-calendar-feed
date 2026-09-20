@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-17T04:10:44-04:00",
+  "generated": "2026-09-20T00:10:43-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,44 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 6,
+  "count": 7,
   "events": [
+    {
+      "id": "wpfw-20260909-D7DC",
+      "title": "H Street Festival",
+      "organization": "H Street Festival",
+      "short_description": "Covering 12 blocks of H Street NE and showcasing numerous staging areas along with over 200 businesses, restaurants, community organizations, and vendors, this festival promises a fantastic experience. Join us for delicious food, refreshing drinks, live music, contests, fun activities for kids, and so much more! H St Fest is among the city’s largest outdoor celebrations, and it’s not to be missed!",
+      "full_description": "",
+      "start_datetime": "2026-09-19T10:00:00-04:00",
+      "end_datetime": "2026-09-19T18:00:00-04:00",
+      "all_day": false,
+      "venue_name": "H Street",
+      "street_address": "",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Arts & Culture",
+      "tags": [
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "https://hstreetfestival.org/wp-content/uploads/2026/06/09212025-HStreetFest-227-DSC00615.jpg",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20260909-D7DC",
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "h-street-festival"
+    },
     {
       "id": "wpfw-20260914-9715",
       "title": "Local Station Board Meeting",
@@ -255,6 +291,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-09-17T08:10:44.921Z",
+  "published_at": "2026-09-20T04:10:44.222Z",
   "source": "github"
 }
