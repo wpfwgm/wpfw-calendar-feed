@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-23T14:42:52-04:00",
+  "generated": "2026-09-24T03:10:42-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,53 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 5,
+  "count": 4,
   "events": [
-    {
-      "id": "wpfw-20260918-2779",
-      "title": "Power in Practice: People's Assemblies and Participatory Democracy",
-      "organization": "Pan-African Community Action",
-      "short_description": "Wednesday, September 23rd is Pan-African Community Action’s next Assata Shakur Popular Education session, \"Power in Practice: People's Assemblies and Participatory Democracy\" an interactive, multimedia session from 7 to 9 PM at the Black Workers & Wellness Center on 2500 Martin Luther King Jr Avenue, Southeast, DC. More information is on \"Power In Practice [dot].Eventbrite [dot] com\".",
-      "full_description": "This Assata Shakur Popular Education (ASPE) will explore participatory democracy as a model in which ordinary people exercise decision-making power directly, rather than limiting political participation to periodically electing representatives. Together, we will examine People’s Assemblies, participatory budgeting, neighborhood councils, and other historical and contemporary examples of communities collectively determining priorities and controlling resources. Finally, we will discuss what participatory democracy could look like in Southeast DC and how residents might exercise greater collective power over the resources, institutions, and decisions affecting their communities.  Food will be provided!  The ASPE are hybrid sessions with the option to participate via Zoom. To join via Zoom use this link https://tinyurl.com/africansstudy",
-      "start_datetime": "2026-09-23T19:00:00-04:00",
-      "end_datetime": "2026-09-23T21:00:00-04:00",
-      "all_day": false,
-      "venue_name": "Black Workers & Wellness Center",
-      "street_address": "2500 Martin Luther King Jr., Avenue, SE",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20020",
-      "online_url": "",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://powerinpractice.eventbrite.com",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice",
-        "Labor & Workers",
-        "Mutual Aid"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "https://drive.google.com/thumbnail?id=1MSBH0mSUkQtI_paP5_k-KKbLBhcqisXE&sz=w1200",
-      "accessibility_notes": "",
-      "access_features": [
-        "Wheelchair accessible",
-        "Accessible restroom",
-        "Live captioning",
-        "Gender-neutral restroom",
-        "Food provided",
-        "Close to Metro"
-      ],
-      "attendance_mode": "in_person",
-      "public_contact": "paca@protonmail.com",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20260918-2779",
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "power-in-practice-peoples-assemblies-and-participatory-democracy"
-    },
     {
       "id": "wpfw-20260921-3AF4",
       "title": "\"Don't Say Palestine, How the Media Manufactured Consent for Genocide.\" Book Talk",
@@ -231,6 +186,6 @@
       "slug": "building-a-peoples-democracy-a-southeast-community-townhall"
     }
   ],
-  "published_at": "2026-09-23T18:42:52.705Z",
+  "published_at": "2026-09-24T07:10:42.411Z",
   "source": "github"
 }
