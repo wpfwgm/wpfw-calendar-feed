@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-24T03:10:42-04:00",
+  "generated": "2026-09-25T02:10:41-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,44 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 4,
+  "count": 3,
   "events": [
-    {
-      "id": "wpfw-20260921-3AF4",
-      "title": "\"Don't Say Palestine, How the Media Manufactured Consent for Genocide.\" Book Talk",
-      "organization": "Assal Rad",
-      "short_description": "Assal Rad will be sharing her experience examining the media's role in shaping narratives about the genocide in Palestine.",
-      "full_description": "Assal Rad will be sharing her experience examining the media's role in shaping narratives about the genocide in Palestine as well as her book \"Don't Say Palestine, How the Media Manufactured Consent for Genocide.\" Copies of the book will be available during and after the event, and Rad will be signing following the program.",
-      "start_datetime": "2026-09-24T18:00:00-04:00",
-      "end_datetime": "2026-09-24T20:00:00-04:00",
-      "all_day": false,
-      "venue_name": "Busboys and Poets",
-      "street_address": "450 K St NW",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "",
-      "online_url": "",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://busboysandpoets.com/events",
-      "category": "Youth & Education",
-      "tags": [
-        "Youth & Education"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "in_person",
-      "public_contact": "",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20260921-3AF4",
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "dont-say-palestine-how-the-media-manufactured-consent-for-genocide-boo"
-    },
     {
       "id": "wpfw-20260922-39CB",
       "title": "10th Annual Wheaton Arts Parade & Festival",
@@ -186,6 +150,6 @@
       "slug": "building-a-peoples-democracy-a-southeast-community-townhall"
     }
   ],
-  "published_at": "2026-09-24T07:10:42.411Z",
+  "published_at": "2026-09-25T06:10:41.980Z",
   "source": "github"
 }
