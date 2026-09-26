@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-26T14:33:34-04:00",
+  "generated": "2026-09-26T16:12:46-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 3,
+  "count": 4,
   "events": [
     {
       "id": "wpfw-20260909-C1A4",
@@ -151,8 +151,46 @@
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "building-a-peoples-democracy-a-southeast-community-townhall"
+    },
+    {
+      "id": "wpfw-20260926-50TH",
+      "title": "WPFW 50th Anniversary Gala",
+      "organization": "WPFW",
+      "short_description": "An evening honoring five decades of community-powered radio: music, guest speakers, special tributes, and the people who have kept 89.3 on the air since 1977. Tickets on sale in November.",
+      "full_description": "WPFW turns fifty on February 28, 2027, and this is the night the station marks it. An evening of music, guest speakers and special tributes at Martin's Crosswinds in Greenbelt, Maryland.\\n\\nSome of the people in that room signed the station on in 1977. Some found 89.3 last week on a car radio. It is the first real chance in a long time to get listeners, volunteers, programmers and staff under one roof.\\n\\nTickets go on sale in November. The start time will be announced here and on the air.",
+      "start_datetime": "2027-05-02T00:00:00-04:00",
+      "end_datetime": "",
+      "all_day": true,
+      "venue_name": "Martin's Crosswinds",
+      "street_address": "",
+      "city": "Greenbelt",
+      "state": "MD",
+      "zip": "",
+      "online_url": "https://www.wpfwdc.org/50th-anniversary",
+      "cost_type": "paid",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Arts & Culture",
+      "tags": [
+        "Arts & Culture",
+        "Racial Justice"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20260926-50TH",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-09-26T18:33:35.042Z",
+  "published_at": "2026-09-26T20:12:46.715Z",
   "source": "github"
 }
