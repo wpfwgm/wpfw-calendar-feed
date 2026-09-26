@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-26T13:42:51-04:00",
+  "generated": "2026-09-26T14:25:16-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,47 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 2,
+  "count": 3,
   "events": [
+    {
+      "id": "wpfw-20260909-C1A4",
+      "title": "POSTPONED: Jazz and Justice Festival",
+      "organization": "WPFW",
+      "short_description": "POSTPONED: Seven hours of live music on the hill, and we put the whole thing on the air.",
+      "full_description": "POSTPONED FOR RAIN. The festival set for Sunday, September 27 has been postponed. We're working on a new date with the bands and the park. It goes up at wpfwdc.org and on the air at 89.3 FM as soon as it's set. Nothing to cancel, nothing to refund — the day was always free.\n\nHere's what's coming with us to the new date:\n\nSeven hours of live music on the hill, and we put the whole thing on the air. Edwin Ortiz & La Mafia Del Guaguanco open the dance floor, Blue Note trumpeter Brandon Woody follows, then Grammy-nominated MuMu Fresh, Proverbs Reggae Band, and Be'la Dona closing it out with go-go. Between the sets, the programmers you hear all week step out from behind the glass, along with an elders circle, a libation, and poets. Across 15th Street at the Josephine Butler Parks Center, community discussions run from noon until seven, documentary screenings from one, alongside yoga, meditation, an art gallery, and the vendor village.\n\nThe Sunday drum circle opens the day, as it has on this hill since 1965.\n\nBring a blanket and bring your people. We'll see you on the new date.\n\nWatch for it: https://www.wpfwdc.org/jazz-and-justice-festival",
+      "start_datetime": "",
+      "end_datetime": "",
+      "all_day": false,
+      "venue_name": "Malcolm X Park",
+      "street_address": "16th & W Street NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20018",
+      "online_url": "https://www.wpfwdc.org/jazz-and-justice-festival",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Arts & Culture",
+      "tags": [
+        "Racial Justice",
+        "Youth & Education",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "https://www.nps.gov/common/uploads/cropped_image/primary/2D1750B5-0526-3A23-7209F67495904CE8.jpg?width=1600&quality=90&mode=crop",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "hybrid",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20260909-C1A4",
+      "date_tbc": true,
+      "attendance_label": "both in person and online",
+      "is_repeat": false,
+      "slug": "postponed-jazz-and-justice-festival"
+    },
     {
       "id": "wpfw-20260922-39CB",
       "title": "10th Annual Wheaton Arts Parade & Festival",
@@ -69,6 +108,7 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260922-39CB",
+      "date_tbc": false,
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "10th-annual-wheaton-arts-parade-and-festival"
@@ -107,11 +147,12 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260919-834B",
+      "date_tbc": false,
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "building-a-peoples-democracy-a-southeast-community-townhall"
     }
   ],
-  "published_at": "2026-09-26T17:42:51.375Z",
+  "published_at": "2026-09-26T18:25:17.006Z",
   "source": "github"
 }
