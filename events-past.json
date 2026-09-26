@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-20T00:10:43-04:00",
+  "generated": "2026-09-26T14:25:18-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -63,6 +63,7 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260909-D7DC",
+      "date_tbc": false,
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "h-street-festival"
@@ -101,6 +102,7 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260914-9715",
+      "date_tbc": false,
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "local-station-board-meeting"
@@ -139,6 +141,7 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260911-5BF4",
+      "date_tbc": false,
       "attendance_label": "online",
       "is_repeat": false,
       "slug": "finance-committee-meeting"
@@ -175,6 +178,7 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260909-FCCB",
+      "date_tbc": false,
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "wpfw-4th-50th-year-benefit-concert-an-afternoon-of-jazz-and-justice"
@@ -213,6 +217,7 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260903-962E",
+      "date_tbc": false,
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "dc-statehood-townhall-lecture-on-josephine-butler-co-founder-of-dc-sta"
@@ -249,6 +254,7 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260909-DD1B",
+      "date_tbc": false,
       "attendance_label": "",
       "is_repeat": false,
       "slug": "9th-annual-wpfw-5k-run-walk-for-total-fitness"
@@ -286,11 +292,12 @@
       "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20260903-CBD4",
+      "date_tbc": false,
       "attendance_label": "both in person and online",
       "is_repeat": false,
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-09-20T04:10:44.222Z",
+  "published_at": "2026-09-26T18:25:19.123Z",
   "source": "github"
 }
