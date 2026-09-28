@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-26T16:12:46-04:00",
+  "generated": "2026-09-27T21:10:44-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 4,
+  "count": 3,
   "events": [
     {
       "id": "wpfw-20260909-C1A4",
@@ -114,45 +114,6 @@
       "slug": "10th-annual-wheaton-arts-parade-and-festival"
     },
     {
-      "id": "wpfw-20260919-834B",
-      "title": "Building a People’s Democracy: A Southeast Community Townhall",
-      "organization": "Pan-African Community Action",
-      "short_description": "Sunday, September 27th is “Building a People’s Democracy: A Southeast Community Townhall\" a People's Assembly where residents will engage in participatory democracy from 12 to 3 PM at the R.I.S.E. Demonstration Center on 2730 Martin Luther King Jr Avenue, Southeast, DC. More information is on \"Peoples Democracy In Southeast [dot].Eventbrite [dot] com\".",
-      "full_description": "What would it look like if Southeast D.C. residents had a direct say in the decisions and resources that shape our communities? Join Pan-African Community Action (PACA) for Building a People’s Democracy—a People's Assembly where Southeast residents will engage in participatory democracy. This is a space for community decision-making, not just community input. Participants will review three proposed community projects and their budgets, discuss possible changes, and vote on which project will receive community funding and support.  Together, we’ll discuss community priorities, learn about PACA’s Community Control DC platform, and demonstrate what it can look like when working-class Black communities have a direct role in the decisions that affect us.  - Vote on a community project - Participate in democratic budgeting _ Discuss community needs and priorities - Learn about Community Control DC  A people’s democracy means more than having a voice. It means having the power to decide.  Free and open to the community. Lunch will be provided.",
-      "start_datetime": "2026-09-27T12:00:00-04:00",
-      "end_datetime": "2026-09-27T15:00:00-04:00",
-      "all_day": false,
-      "venue_name": "R.I.S.E. Demonstration Center",
-      "street_address": "2730 Martin Luther King Jr. Avenue, SE",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20032",
-      "online_url": "https://peoplesdemocracyinsoutheast.eventbrite.com",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice",
-        "Labor & Workers",
-        "Mutual Aid"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "in_person",
-      "public_contact": "paca@protonmail.com",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20260919-834B",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "building-a-peoples-democracy-a-southeast-community-townhall"
-    },
-    {
       "id": "wpfw-20260926-50TH",
       "title": "WPFW 50th Anniversary Gala",
       "organization": "WPFW",
@@ -191,6 +152,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-09-26T20:12:46.715Z",
+  "published_at": "2026-09-28T01:10:44.459Z",
   "source": "github"
 }
