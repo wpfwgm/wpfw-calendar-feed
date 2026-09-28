@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-09-27T21:10:44-04:00",
+  "generated": "2026-09-27T23:10:42-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 3,
+  "count": 2,
   "events": [
     {
       "id": "wpfw-20260909-C1A4",
@@ -71,49 +71,6 @@
       "slug": "postponed-jazz-and-justice-festival"
     },
     {
-      "id": "wpfw-20260922-39CB",
-      "title": "10th Annual Wheaton Arts Parade & Festival",
-      "organization": "Wheaton Arts Parade, a 501c3 non-profit, with support from the Montgomery County Government",
-      "short_description": "The 10th annual Wheaton Arts Parade and Festival on Sunday, Sept. 27, brings together artists, musicians, dancers, community groups, and residents for a free celebration of the community’s creativity and diversity. The celebration starts at 10 a.m. with the Wheaton Arts Parade. There are three stages with performances from noon to 5 pm, free activities for kids, arts and food vendors and more.",
-      "full_description": "The Wheaton Arts Parade is a unique, highly participatory arts event where everyone can be an artist. Participants are encouraged to bring something they have created and push, pull, carry, wear or perform their art in the parade.  The parade travels around the Wheaton Triangle and ends at Marian Fryer Town Plaza, where the free arts festival features more than 50 artists selling original work, community organizations offering art-making activities and giveaways, and a free Kids’ Zone with face painting and balloon twisting. There will also be live stage performances from noon until 5 pm on our three stages.  Groups performing include: Tre Sorrells featuring Deborah Bond; Mariana Gatto & Miguel Perèz Flamenco Dance and Guitar; and Uasuf Gueye, African Drumming.  Admission is free, and free parking is available.  Because the event is happening this Sunday, we would greatly appreciate any promotion or inclusion in events calendars or anywhere else this information is appropriate. Our parade is truly one of a kind, where everyone, including VIPs, carry art, and our 25 floats are really something to see.  More Details:  What: 10th Annual Wheaton Arts Parade & Festival When: Sunday, September 27, 10 a.m. Where: Wheaton, Maryland — parade around the Wheaton Triangle to Marian Fryer Town Plaza Address: 2424 Reedie Drive, Wheaton, MD 20902 Why it matters: Funky, participatory arts parade where people can actually bring and perform/carry/wear their own art Festival: 50+ artists, community art activities, free kids' activities, face painting and balloon twisting Cost: Free Parking: Free",
-      "start_datetime": "2026-09-27T10:00:00-04:00",
-      "end_datetime": "2026-09-27T17:00:00-04:00",
-      "all_day": false,
-      "venue_name": "Marian Fryer Town Plaza",
-      "street_address": "2424 Reedie Drive",
-      "city": "Wheaton",
-      "state": "MD",
-      "zip": "20902",
-      "online_url": "",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://www.wheatonartsparade.org/",
-      "category": "Arts & Culture",
-      "tags": [
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "https://drive.google.com/thumbnail?id=1CsKHRASWUKwFTl11OdJc3rD7UTLpQshs&sz=w1200",
-      "accessibility_notes": "",
-      "access_features": [
-        "Wheelchair accessible",
-        "Step-free entrance",
-        "Accessible restroom",
-        "Close to Metro",
-        "Free parking"
-      ],
-      "attendance_mode": "in_person",
-      "public_contact": "chris@wheatonartsparade.org",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20260922-39CB",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "10th-annual-wheaton-arts-parade-and-festival"
-    },
-    {
       "id": "wpfw-20260926-50TH",
       "title": "WPFW 50th Anniversary Gala",
       "organization": "WPFW",
@@ -152,6 +109,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-09-28T01:10:44.459Z",
+  "published_at": "2026-09-28T03:10:43.038Z",
   "source": "github"
 }
