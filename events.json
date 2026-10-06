@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-05T13:27:52-04:00",
+  "generated": "2026-10-06T03:42:51-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,47 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 6,
+  "count": 5,
   "events": [
-    {
-      "id": "wpfw-20261004-49E5",
-      "title": "AND AGAIN I DREAM -Screening",
-      "organization": "The Rainbow History Project in partnership with WPFW",
-      "short_description": "The Rainbow History Project in partnership with WPFW will be having a screening of AND AGAIN I DREAM, followed by a conversation moderated by WPFW's own Katea Stitt with directors Catherine Gund and Mariah Norman, Jade Keith, Kojo Nnamdi, and Sharon Farmer.",
-      "full_description": "",
-      "start_datetime": "2026-10-05T19:00:00-04:00",
-      "end_datetime": "2026-10-05T21:30:00-04:00",
-      "all_day": false,
-      "venue_name": "Busboys and Poets",
-      "street_address": "2021 14th St NW",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20009",
-      "online_url": "https://busboysandpoets.com/events",
-      "cost_type": "ticketed",
-      "cost_amount": "10",
-      "ticket_url": "https://www.tickettailor.com/events/aubinpictures/2369895",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice",
-        "LGBTQ+",
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "in_person",
-      "public_contact": "conniewatts211@gmail.com",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20261004-49E5",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "and-again-i-dream-screening"
-    },
     {
       "id": "wpfw-20261004-75E8",
       "title": "Nothing Less Than Equality- Book Discussion",
@@ -262,6 +223,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-05T17:27:52.995Z",
+  "published_at": "2026-10-06T07:42:52.000Z",
   "source": "github"
 }
