@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-06T03:42:51-04:00",
+  "generated": "2026-10-07T02:42:54-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,46 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 5,
+  "count": 4,
   "events": [
-    {
-      "id": "wpfw-20261004-75E8",
-      "title": "Nothing Less Than Equality- Book Discussion",
-      "organization": "Sankofa Books & Cafe",
-      "short_description": "Sankofa books & cafe will be having a discussion with Tikia K. Hamilton on her book, Nothing Less Than Equality, a critical analysis of African Americans' collective efforts to obtain educational equality before Brown v. Board of Education.",
-      "full_description": "",
-      "start_datetime": "2026-10-06T18:30:00-04:00",
-      "end_datetime": "2026-10-06T20:30:00-04:00",
-      "all_day": false,
-      "venue_name": "Sankofa Video Books & Cafe",
-      "street_address": "2714 Georgia Ave NW",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "",
-      "online_url": "https://www.sankofa.com",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice",
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "in_person",
-      "public_contact": "conniewatts211@gmail.com",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20261004-75E8",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "nothing-less-than-equality-book-discussion"
-    },
     {
       "id": "wpfw-20261004-EE7D",
       "title": "Philonomosian Society Live debate",
@@ -223,6 +185,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-06T07:42:52.000Z",
+  "published_at": "2026-10-07T06:42:56.555Z",
   "source": "github"
 }
