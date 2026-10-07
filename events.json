@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-07T02:42:54-04:00",
+  "generated": "2026-10-07T18:57:52-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 4,
+  "count": 5,
   "events": [
     {
       "id": "wpfw-20261004-EE7D",
@@ -147,6 +147,46 @@
       "slug": "vote-early-with-the-davies-bridge-brigade-no-kings-event"
     },
     {
+      "id": "wpfw-20261006-96DB",
+      "title": "Family Fund Day",
+      "organization": "African National Women's Organization",
+      "short_description": "The African National Women's Organization is hosting a free day of family togetherness and outdoor fun for children and adults. Games and snacks will be provided.",
+      "full_description": "",
+      "start_datetime": "2026-10-18T12:00:00-04:00",
+      "end_datetime": "2026-10-18T16:00:00-04:00",
+      "all_day": false,
+      "venue_name": "Anacostia Park",
+      "street_address": "1900 Anacostia Drive",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20020",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://anwouhuru.org",
+      "category": "Youth & Education",
+      "tags": [
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "Snacks and games provided",
+      "access_features": [
+        "Wheelchair accessible",
+        "Free parking"
+      ],
+      "attendance_mode": "in_person",
+      "public_contact": "https://anwouhuru.org",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261006-96DB",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "family-fund-day"
+    },
+    {
       "id": "wpfw-20260926-50TH",
       "title": "WPFW 50th Anniversary Gala",
       "organization": "WPFW",
@@ -185,6 +225,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-07T06:42:56.555Z",
+  "published_at": "2026-10-07T22:57:53.778Z",
   "source": "github"
 }
