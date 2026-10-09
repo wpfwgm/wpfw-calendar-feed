@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-09T08:42:52-04:00",
+  "generated": "2026-10-09T08:57:51-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -109,7 +109,7 @@
     },
     {
       "id": "wpfw-20261006-96DB",
-      "title": "Family Fund Day",
+      "title": "Family Fun Day",
       "organization": "African National Women's Organization",
       "short_description": "The African National Women's Organization is hosting a free day of family togetherness and outdoor fun for children and adults. Games and snacks will be provided.",
       "full_description": "",
@@ -145,7 +145,7 @@
       "date_tbc": false,
       "attendance_label": "in person",
       "is_repeat": false,
-      "slug": "family-fund-day"
+      "slug": "family-fun-day"
     },
     {
       "id": "wpfw-20261007-3F7F",
@@ -227,6 +227,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-09T12:42:53.691Z",
+  "published_at": "2026-10-09T12:57:52.305Z",
   "source": "github"
 }
