@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-07T02:43:00-04:00",
+  "generated": "2026-10-09T02:10:48-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,47 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 9,
+  "count": 10,
   "events": [
+    {
+      "id": "wpfw-20261004-EE7D",
+      "title": "Philonomosian Society Live debate",
+      "organization": "Immigrant Food",
+      "short_description": "Live debate: is the Department of Homeland Security's use of social media in deportation normal? Immigrant Food and Georgetown's Philonomosian Society are bringing that question to the stage for a live, moderated debate- part of Immigrant Food's ongoing \"Is This Normal?\" series questioning the everyday normalization of immigration enforcement.",
+      "full_description": "",
+      "start_datetime": "2026-10-08T18:00:00-04:00",
+      "end_datetime": "2026-10-08T20:00:00-04:00",
+      "all_day": false,
+      "venue_name": "Immigrant Food",
+      "street_address": "1701 Pennsylvania Avenue NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "https://eventbrite.com",
+      "cost_type": "ticketed",
+      "cost_amount": "18.92",
+      "ticket_url": "https://www.eventbrite.com/e/is-this-normal-a-live-debate-on-dhs-deportation-social-media-tickets-2000523858714?aff=ebdsoporgprofile",
+      "category": "Abolition & Policing",
+      "tags": [
+        "Abolition & Policing",
+        "Racial Justice",
+        "Immigration"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "conniewatts211@gmail.com",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261004-EE7D",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "philonomosian-society-live-debate"
+    },
     {
       "id": "wpfw-20261004-75E8",
       "title": "Nothing Less Than Equality- Book Discussion",
@@ -375,6 +414,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-10-07T06:43:01.820Z",
+  "published_at": "2026-10-09T06:10:48.965Z",
   "source": "github"
 }
