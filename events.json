@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-13T06:10:44-04:00",
+  "generated": "2026-10-14T15:10:44-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,56 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 4,
+  "count": 5,
   "events": [
+    {
+      "id": "wpfw-20261010-2616",
+      "title": "The 60th Anniversary of the Black Panther Party",
+      "organization": "Pan-African Community Action",
+      "short_description": "Wednesday, October 14th is Pan-African Community Action’s next Assata Shakur Popular Education session, \"The 60th Anniversary of the Black Panther Party\" an interactive, multimedia session from 7 to 9 PM at the Black Workers & Wellness Center on 2500 Martin Luther King Jr Avenue, Southeast, DC. More information is on \"Black Panther Party at 60 [dot].Eventbrite [dot] com\".",
+      "full_description": "Wednesday, October 14th is Pan-African Community Action’s next Assata Shakur Popular Education session, \"The 60th Anniversary of the Black Panther Party\" an interactive, multimedia session from 7 to 9 PM at the Black Workers & Wellness Center on 2500 Martin Luther King Jr Avenue, Southeast, DC. More information is on \"Black Panther Party at 60 [dot].Eventbrite [dot] com\".",
+      "start_datetime": "2026-10-14T19:00:00-04:00",
+      "end_datetime": "2026-10-14T21:00:00-04:00",
+      "all_day": false,
+      "venue_name": "Black Workers & Wellness Center",
+      "street_address": "2500 Martin Luther King Junior Avenue SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20020",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://blackpantherpartyat60.eventbrite.com",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice",
+        "Youth & Education",
+        "Mutual Aid"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1195498242%252F152901964637%252F1%252Foriginal.20261010-043528%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D1880%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.481%26f",
+      "accessibility_notes": "",
+      "access_features": [
+        "Wheelchair accessible",
+        "Step-free entrance",
+        "Accessible restroom",
+        "Live captioning",
+        "Gender-neutral restroom",
+        "Food provided",
+        "Close to Metro",
+        "Livestreamed"
+      ],
+      "attendance_mode": "in_person",
+      "public_contact": "paca@protonmail.com",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261010-2616",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "the-60th-anniversary-of-the-black-panther-party"
+    },
     {
       "id": "wpfw-20260929-F8DB",
       "title": "Vote Early with the Davies Bridge Brigade  No Kings Event",
@@ -188,6 +236,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-13T10:10:44.862Z",
+  "published_at": "2026-10-14T19:10:46.216Z",
   "source": "github"
 }
