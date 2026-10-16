@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-16T19:10:42-04:00",
+  "generated": "2026-10-16T19:57:51-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 3,
+  "count": 4,
   "events": [
     {
       "id": "wpfw-20261006-96DB",
@@ -113,6 +113,43 @@
       "slug": "the-politics-hour-live-with-kojo-nnamdi"
     },
     {
+      "id": "wpfw-20261016-5465",
+      "title": "WPFW 5th 50th Year Benefit Concert & Film",
+      "organization": "WPFW",
+      "short_description": "Join WPFW for our 5th Fiftyith-Year Benefit Concert with a film. The afternoon starts with a screening of Cody Valentine’s (a.k.a. WPFW’s DJ Cody V, The Music Bed) debut film, Purple Velvet Planet and a few words from the director himself.\n\nEntertainment will continue with a musical set by Baltimore bred and based, BlueNote recording artist trumpeter Brandon Wood w",
+      "full_description": "",
+      "start_datetime": "2026-11-01T16:00:00-05:00",
+      "end_datetime": "2026-11-01T18:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Palisades Hub",
+      "street_address": "5200 Cathedral Avenue Northwest",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20016",
+      "online_url": "",
+      "cost_type": "ticketed",
+      "cost_amount": "$22 and up",
+      "ticket_url": "https://www.eventbrite.com/e/wpfw-5th-50th-year-benefit-concert-film-tickets-2002848598072?aff=oddtdtcreator",
+      "category": "Arts & Culture",
+      "tags": [
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261016-5465",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "wpfw-5th-50th-year-benefit-concert-and-film"
+    },
+    {
       "id": "wpfw-20260926-50TH",
       "title": "WPFW 50th Anniversary Gala",
       "organization": "WPFW",
@@ -151,6 +188,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-16T23:10:42.479Z",
+  "published_at": "2026-10-16T23:57:51.501Z",
   "source": "github"
 }
