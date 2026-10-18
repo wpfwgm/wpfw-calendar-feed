@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-13T06:10:48-04:00",
+  "generated": "2026-10-17T22:10:43-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,45 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 11,
+  "count": 12,
   "events": [
+    {
+      "id": "wpfw-20260929-F8DB",
+      "title": "Vote Early with the Davies Bridge Brigade  No Kings Event",
+      "organization": "Ron Verdonk and Debby Mathis",
+      "short_description": "No Kings Day   VOTE Early with the Davies Bridge Brigade.  October 17, 2026 2pm  Bald Eagle Rd.",
+      "full_description": "Come Join Ron Verdonk, Debby Mathis and the Davies Bridge Brigade on October 17, 2026,  on Bald Eagle Rd., Forest Heights, Md. 20745 at 2pm.  Bring your Signs, make some noise to #VoteEarly   Looking for a way to participate in No Kings Day, this is it?",
+      "start_datetime": "2026-10-17T14:00:00-04:00",
+      "end_datetime": "2026-10-17T16:00:00-04:00",
+      "all_day": false,
+      "venue_name": "Bald Eagle Rd. and 495 Last Bridge before Woodrow Wilson",
+      "street_address": "Bald Eagle Rd",
+      "city": "Forest Heights",
+      "state": "MD",
+      "zip": "20745",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Voting Rights",
+      "tags": [
+        "Voting Rights"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "Parking at the nearby park is permissable but there is a walk.  There is a sidewalk but may not be wheelchair accessible, especially with a crowd.  Bathrooms would be at the park.  May not be good for small children and pets.",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "Ron Verdonk, Debby Mathis and the Davies Unitarian Universalist Congregation Bridge Brigade",
+      "cosponsors": "Registered with Mobilized and Indivisible",
+      "series_id": "wpfw-20260929-F8DB",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "vote-early-with-the-davies-bridge-brigade-no-kings-event"
+    },
     {
       "id": "wpfw-20260909-C1A4",
       "title": "Jazz and Justice Festival",
@@ -453,6 +490,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-10-13T10:10:48.659Z",
+  "published_at": "2026-10-18T02:10:43.597Z",
   "source": "github"
 }
