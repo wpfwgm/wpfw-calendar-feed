@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-19T18:57:52-04:00",
+  "generated": "2026-10-19T19:10:40-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 6,
+  "count": 8,
   "events": [
     {
       "id": "wpfw-20261019-F3DC",
@@ -193,6 +193,43 @@
       "slug": "community-safety-fair"
     },
     {
+      "id": "wpfw-20261010-12BF",
+      "title": "WPFW 5th 50th Year Benefit Concert and Film",
+      "organization": "WPFW",
+      "short_description": "Join WPFW for our 5th Fiftyith-Year Benefit Concert with a film.",
+      "full_description": "Join WPFW for our 5th Fiftyith-Year Benefit Concert with a film. The afternoon starts with a screening of Cody Valentine’s (a.k.a. WPFW’s DJ Cody V, The Music Bed) debut film, Purple Velvet Planet and a few words from the director himself. We will then end the incredible evening with a musical set by Baltimore bred and based, Blue Note recording artist trumpeter Brandon Wood with his band Upendo & guest drummer. Tickets are available on Eventbrite and all proceeds benefit your Jazz & Justice radio station WPFW.",
+      "start_datetime": "2026-11-01T16:00:00-05:00",
+      "end_datetime": "2026-11-01T18:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Palisades Hub",
+      "street_address": "5200 Cathedral Ave NW",
+      "city": "",
+      "state": "DC",
+      "zip": "",
+      "online_url": "https://www.eventbrite.com/e/wpfw-5th-50th-year-benefit-concert-film-tickets-2002848598072?aff=oddtdtcreator",
+      "cost_type": "ticketed",
+      "cost_amount": "39",
+      "ticket_url": "",
+      "category": "Arts & Culture",
+      "tags": [
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "hybrid",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261010-12BF",
+      "date_tbc": false,
+      "attendance_label": "both in person and online",
+      "is_repeat": false,
+      "slug": "wpfw-5th-50th-year-benefit-concert-and-film"
+    },
+    {
       "id": "wpfw-20261016-5465",
       "title": "WPFW 5th 50th Year Benefit Concert & Film",
       "organization": "WPFW",
@@ -227,7 +264,46 @@
       "date_tbc": false,
       "attendance_label": "in person",
       "is_repeat": false,
-      "slug": "wpfw-5th-50th-year-benefit-concert-and-film"
+      "slug": "wpfw-5th-50th-year-benefit-concert-and-film-5465"
+    },
+    {
+      "id": "wpfw-20261014-4A48",
+      "title": "Linda Leaks and the DC Limited Equity Cooperative Movement Teach-In",
+      "organization": "This event is organized by Jessica \"Jess\" A. Rucker.hosted by the People's Archive, and supported by the Frederick Dougl",
+      "short_description": "Register to attend this free and intentionally intergenerational learning experience to share in an ongoing movement led by Black women in the decades-old fight for the right to space and place in the nation's capital: https://bit.ly/DCLECTeach-in.",
+      "full_description": "The event seeks to deepen participants’ knowledge of the long and ongoing struggle for safe, decent, and affordable housing in the nation’s capital and will extend access to this critical history at a moment when it has great value, as the nation’s capital continues to be one of the most rapidly gentrifying cities in the United States. Limited equity cooperatives (LECs) became a popular approach to housing justice in DC starting in the late 1970s. In DC, LECs do more than provide cooperatively owned housing affordable to low-income and working-class people; LECs in DC change the material world by reframing housing, democracy, self-determination, and political leadership. The DC LEC movement, from 1978 to 2003, exemplifies how Black women serve as leaders through daily activism and organizing, modeling a literal form of home rule and self-determination in a colonized nation’s capital. This event analyzes LECs in terms of Home Rule and centers a leader of this movement, Linda Leaks–the seasoned Black feminist cooperative educator, activist, and organizer who is known locally as “the Godmother of DC Housing Cooperatives.”",
+      "start_datetime": "2026-11-02T19:00:00-05:00",
+      "end_datetime": "2026-11-02T20:30:00-05:00",
+      "all_day": false,
+      "venue_name": "The Martin Luther King Jr. Memorial Library - ROOM 401A",
+      "street_address": "901 G St. NW",
+      "city": "Washington, DC",
+      "state": "DC",
+      "zip": "20001",
+      "online_url": "https://bit.ly/DCLECTeach-in.",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://dclibrary.libnet.info/event/17589133",
+      "category": "Housing & Tenants",
+      "tags": [
+        "Housing & Tenants",
+        "Racial Justice",
+        "Gender Justice"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "jessicaarucker@gmail.com",
+      "funders": "This event is hosted by the People's Archive and supported by the Frederick Douglass Center.",
+      "cosponsors": "",
+      "series_id": "wpfw-20261014-4A48",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "linda-leaks-and-the-dc-limited-equity-cooperative-movement-teach-in"
     },
     {
       "id": "wpfw-20260926-50TH",
@@ -268,6 +344,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-19T22:57:54.099Z",
+  "published_at": "2026-10-19T23:10:40.914Z",
   "source": "github"
 }
