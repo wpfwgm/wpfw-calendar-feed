@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-21T16:57:51-04:00",
+  "generated": "2026-10-22T04:10:44-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,47 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 9,
+  "count": 8,
   "events": [
-    {
-      "id": "wpfw-20261021-8708",
-      "title": "WPFW Local Station Board Meeting",
-      "organization": "WPFW",
-      "short_description": "Regular WPFW Local Station Board Meeting",
-      "full_description": "LSB WPFW is inviting you to a scheduled Zoom meeting.\n\nTopic: WPFW monthly LSB meeting\nTime: Oct 21, 2026 06:30 PM Eastern Time (US and Canada)\n\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/87035810487\n\nMeeting ID: 870 3581 0487\n\n---\n\nOne tap mobile\n+13017158592,,87035810487# US (Washington DC)\n+16465588656,,87035810487# US (New York)\n\n\n---\n\nJoin by SIP\n• 87035810487@zoomcrc.com\n\nJoin instructions\nhttps://us06web.zoom.us/meetings/87035810487/invitations?signature=CEVHPi5x9tXo_afRZ2QtfNthNssm2SEBCUR0Lq0MaSc",
-      "start_datetime": "2026-10-21T18:30:00-04:00",
-      "end_datetime": "2026-10-21T22:00:00-04:00",
-      "all_day": false,
-      "venue_name": "",
-      "street_address": "",
-      "city": "",
-      "state": "DC",
-      "zip": "",
-      "online_url": "https://us06web.zoom.us/meetings/87035810487/invitations?signature=CEVHPi5x9tXo_afRZ2QtfNthNssm2SEBCUR0Lq0MaSc",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "",
-      "category": "Arts & Culture",
-      "tags": [
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": true,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [
-        "Livestreamed"
-      ],
-      "attendance_mode": "virtual",
-      "public_contact": "",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20261021-8708",
-      "date_tbc": false,
-      "attendance_label": "online",
-      "is_repeat": false,
-      "slug": "wpfw-local-station-board-meeting"
-    },
     {
       "id": "wpfw-20261019-F3DC",
       "title": "\"Fes is A Mirror\" Novella Book talk with author Chantal James",
@@ -383,6 +344,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-21T20:57:51.843Z",
+  "published_at": "2026-10-22T08:10:44.365Z",
   "source": "github"
 }
