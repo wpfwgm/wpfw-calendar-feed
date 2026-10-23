@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-22T04:10:47-04:00",
+  "generated": "2026-10-23T02:10:47-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,46 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 13,
+  "count": 14,
   "events": [
+    {
+      "id": "wpfw-20261019-F3DC",
+      "title": "\"Fes is A Mirror\" Novella Book talk with author Chantal James",
+      "organization": "Sankofa Video Books & Cafe",
+      "short_description": "Sankofa books & cafe will be having an evening with acclaimed Washington, DC-based author Chantal James, as she presents her latest novella, Fes is A Mirror\" published October 28, 2025. Moderated by WPFW's own Dr. Joshua Myers. Located at Sankofa Video Books & Café",
+      "full_description": "",
+      "start_datetime": "2026-10-22T18:30:00-04:00",
+      "end_datetime": "2026-10-22T20:00:00-04:00",
+      "all_day": true,
+      "venue_name": "Sankofa Video Books & Cafe",
+      "street_address": "2714 Georgia Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://www.sankofa.com/events/book-event-fes-is-a-mirror-a-novella-with-author-chantal-james-2",
+      "category": "Youth & Education",
+      "tags": [
+        "Youth & Education",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261019-F3DC",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "fes-is-a-mirror-novella-book-talk-with-author-chantal-james"
+    },
     {
       "id": "wpfw-20261021-8708",
       "title": "WPFW Local Station Board Meeting",
@@ -529,6 +567,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-10-22T08:10:47.940Z",
+  "published_at": "2026-10-23T06:10:48.387Z",
   "source": "github"
 }
