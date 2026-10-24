@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-23T19:42:52-04:00",
+  "generated": "2026-10-23T20:10:43-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,52 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 6,
+  "count": 5,
   "events": [
-    {
-      "id": "wpfw-20261014-0958",
-      "title": "Congo In Focus: A People’s Struggle for Their Land, Resources, Story, and Future",
-      "organization": "Institute for Policy Studies",
-      "short_description": "Thursday, October 23rd, the Africa World Now Project, Black Alliance for Peace, Friends of the Congo, and the Institute for Policy Studies, invite you to \"Congo In Focus”, a panel of young Congolese sharing the organizing and work that they are putting in to achieve a free, liberated and sovereign Congo, 12:00 to 2:00 pm at IPS. More information and RSVP is on \"ips -dc.org/events.",
-      "full_description": "Thursday, October 23rd, the Africa World Now Project, Black Alliance for Peace, Friends of the Congo, and the Institute for Policy Studies, invite you to \"Congo In Focus”, a panel of young Congolese sharing the organizing and work that they are putting in to achieve a free, liberated and sovereign Congo, 12:00 to 2:00 pm at IPS. More information and RSVP is on \"ips -dc.org/events.\"",
-      "start_datetime": "2026-10-23T12:00:00-04:00",
-      "end_datetime": "2026-10-23T14:00:00-04:00",
-      "all_day": false,
-      "venue_name": "Institute for Policy Studies",
-      "street_address": "1301 Connecticut Avenue, NW Suite 600",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20036",
-      "online_url": "",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://www.ips-dc.org/event/congo-in-focus/",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [
-        "Wheelchair accessible",
-        "Step-free entrance",
-        "Accessible restroom",
-        "Gender-neutral restroom",
-        "Close to Metro",
-        "Livestreamed"
-      ],
-      "attendance_mode": "in_person",
-      "public_contact": "netfa@ips-dc.org",
-      "funders": "",
-      "cosponsors": "the Africa World Now Project, Black Alliance for Peace, Friends of the Congo, and",
-      "series_id": "wpfw-20261014-0958",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "congo-in-focus-a-peoples-struggle-for-their-land-resources-story-and-f"
-    },
     {
       "id": "wpfw-20261019-722C",
       "title": "Community Safety Fair",
@@ -265,6 +221,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-23T23:42:52.956Z",
+  "published_at": "2026-10-24T00:10:44.421Z",
   "source": "github"
 }
