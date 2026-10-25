@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-23T20:10:47-04:00",
+  "generated": "2026-10-24T21:10:44-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,46 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 16,
+  "count": 17,
   "events": [
+    {
+      "id": "wpfw-20261019-722C",
+      "title": "Community Safety Fair",
+      "organization": "Justice Lab",
+      "short_description": "You can learn from community leaders who rarely get a platform about how to co-create a sustainable safe and free DC. Located at DC History Center 801 K Street  Northwest 2nd Floor, Washington, DC",
+      "full_description": "",
+      "start_datetime": "2026-10-24T13:00:00-04:00",
+      "end_datetime": "2026-10-24T15:00:00-04:00",
+      "all_day": true,
+      "venue_name": "DC History Center",
+      "street_address": "801 K Street  Northwest 2nd Floor",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://www.eventbrite.com/e/community-safety-fair-2026-tickets-1995480380535?aff=ebdssbdestsearch",
+      "category": "Climate & Environment",
+      "tags": [
+        "Climate & Environment",
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261019-722C",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "community-safety-fair"
+    },
     {
       "id": "wpfw-20261014-0958",
       "title": "Congo In Focus: A People’s Struggle for Their Land, Resources, Story, and Future",
@@ -652,6 +690,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-10-24T00:10:47.964Z",
+  "published_at": "2026-10-25T01:10:45.273Z",
   "source": "github"
 }
