@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-24T21:10:42-04:00",
+  "generated": "2026-10-26T20:10:45-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -35,8 +35,8 @@
       "id": "wpfw-20261010-12BF",
       "title": "WPFW 5th 50th Year Benefit Concert and Film",
       "organization": "WPFW",
-      "short_description": "Join WPFW for our 5th Fiftyith-Year Benefit Concert with a film.",
-      "full_description": "Join WPFW for our 5th Fiftyith-Year Benefit Concert with a film. The afternoon starts with a screening of Cody Valentine’s (a.k.a. WPFW’s DJ Cody V, The Music Bed) debut film, Purple Velvet Planet and a few words from the director himself. We will then end the incredible evening with a musical set by Baltimore bred and based, Blue Note recording artist trumpeter Brandon Wood with his band Upendo & guest drummer. Tickets are available on Eventbrite and all proceeds benefit your Jazz & Justice radio station WPFW.",
+      "short_description": "Join WPFW for our 5th Fiftieth-Year Benefit Concert with a film.",
+      "full_description": "Join WPFW for our 5th Fiftieth-Year Benefit Concert with a film. The afternoon starts with a screening of Cody Valentine’s (a.k.a. WPFW’s DJ Cody V, The Music Bed) debut film, Purple Velvet Planet and a few words from the director himself. We will then end the incredible evening with a musical set by Baltimore bred and based, Blue Note recording artist trumpeter Brandon Wood with his band Upendo & guest drummer. Tickets are available on Eventbrite and all proceeds benefit your Jazz & Justice radio station WPFW.",
       "start_datetime": "2026-11-01T16:00:00-05:00",
       "end_datetime": "2026-11-01T18:00:00-05:00",
       "all_day": false,
@@ -183,6 +183,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-25T01:10:42.801Z",
+  "published_at": "2026-10-27T00:10:49.068Z",
   "source": "github"
 }
