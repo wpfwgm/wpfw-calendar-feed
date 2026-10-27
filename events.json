@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-26T20:57:53-04:00",
+  "generated": "2026-10-27T15:57:52-04:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,55 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 6,
+  "count": 8,
   "events": [
+    {
+      "id": "wpfw-20261023-4C1C",
+      "title": "U.S. AFRICOM Out of Africa",
+      "organization": "Pan-African Community Action",
+      "short_description": "Wednesday, October 28th is Pan-African Community Action’s next Assata Shakur Popular Education, \"U.S. AFRICOM Out of Africa\" an interactive, multimedia  session about U.S. militarism’s role in advancing neo-colonialism in Africa, 7 to 9 PM at the Black Workers & Wellness Center, 2500 Martin Luther King Jr Ave, SE, DC. Info and registration is on \"AFRICOM Out of Africa [dot] Eventbrite [dot] Com.\"",
+      "full_description": "Join Pan-African Community Action (PACA) for this Assata Shakur Popular Education (ASPE) session, where we will examine AFRICOM’s role in advancing U.S. imperialism and neocolonialism across Africa. We will explore how African political elites enable Western military intervention, repression, and destabilization at the expense of working-class Africans. We will challenge the narratives used to justify AFRICOM’s presence, including claims of promoting security, democracy, and countering Chinese influence. Finally, we will connect these struggles to Black working-class communities in D.C. and discuss how Pan-African organizing can advance African liberation and self-determination.  Food will be provided!  The ASPE are hybrid sessions with the option to participate via Zoom. To join via Zoom use this link https://tinyurl.com/africansstudy",
+      "start_datetime": "2026-10-28T19:00:00-04:00",
+      "end_datetime": "2026-10-28T21:00:00-04:00",
+      "all_day": false,
+      "venue_name": "Black Workers & Wellness Center",
+      "street_address": "2500 Martin Luther King Junior Avenue SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20020",
+      "online_url": "https://africomoutofafrica.eventbrite.com",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [
+        "Wheelchair accessible",
+        "Step-free entrance",
+        "Accessible restroom",
+        "Live captioning",
+        "Large-print materials",
+        "Gender-neutral restroom",
+        "Food provided",
+        "Close to Metro",
+        "Livestreamed"
+      ],
+      "attendance_mode": "hybrid",
+      "public_contact": "netfa@ips-dc.org",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261023-4C1C",
+      "date_tbc": false,
+      "attendance_label": "both in person and online",
+      "is_repeat": false,
+      "slug": "u-s-africom-out-of-africa"
+    },
     {
       "id": "wpfw-20261026-0BD1",
       "title": "“Menopunk the Vote” and Thrive in",
@@ -189,6 +236,48 @@
       "slug": "wpfw-5th-50th-year-benefit-concert-and-film-5465"
     },
     {
+      "id": "wpfw-20261024-7E2A--1",
+      "title": "Music for All Souls featuring Navasha Daya and band",
+      "organization": "All Souls Church Children & Youth Religious Education Committee",
+      "short_description": "This event, scheduled for Nov 7,  5 pm features Navasha Daya, a gifted cultural arts activist who frequently tours as a guest artitist with \" Sweet Honey in The Rock,\"   Navasha has been described by India Arie as \"the true definition of soulful.\"",
+      "full_description": "",
+      "start_datetime": "2026-11-02T16:00:00-05:00",
+      "end_datetime": "",
+      "all_day": false,
+      "venue_name": "All Souls Church Unitarian",
+      "street_address": "1500 Harvard St N.W.",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20009",
+      "online_url": "",
+      "cost_type": "ticketed",
+      "cost_amount": "25",
+      "ticket_url": "",
+      "category": "Youth & Education",
+      "tags": [
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "Metro accessible using Green line",
+      "access_features": [
+        "Wheelchair accessible",
+        "Accessible restroom",
+        "Gender-neutral restroom",
+        "Close to Metro"
+      ],
+      "attendance_mode": "in_person",
+      "public_contact": "musicforall souls2026@gmail.com",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261024-7E2A",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": true,
+      "slug": "music-for-all-souls-featuring-navasha-daya-and-band"
+    },
+    {
       "id": "wpfw-20261014-4A48",
       "title": "Linda Leaks and the DC Limited Equity Cooperative Movement Teach-In",
       "organization": "This event is organized by Jessica \"Jess\" A. Rucker.hosted by the People's Archive, and supported by the Frederick Dougl",
@@ -266,6 +355,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-27T00:57:54.175Z",
+  "published_at": "2026-10-27T19:57:53.593Z",
   "source": "github"
 }
