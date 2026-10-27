@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-24T21:10:44-04:00",
+  "generated": "2026-10-27T15:57:59-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,50 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 17,
+  "count": 18,
   "events": [
+    {
+      "id": "wpfw-20261024-7E2A",
+      "title": "Music for All Souls featuring Navasha Daya and band",
+      "organization": "All Souls Church Children & Youth Religious Education Committee",
+      "short_description": "This event, scheduled for Nov 7,  5 pm features Navasha Daya, a gifted cultural arts activist who frequently tours as a guest artitist with \" Sweet Honey in The Rock,\"   Navasha has been described by India Arie as \"the true definition of soulful.\"",
+      "full_description": "",
+      "start_datetime": "2026-10-26T17:00:00-04:00",
+      "end_datetime": "",
+      "all_day": false,
+      "venue_name": "All Souls Church Unitarian",
+      "street_address": "1500 Harvard St N.W.",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20009",
+      "online_url": "",
+      "cost_type": "ticketed",
+      "cost_amount": "25",
+      "ticket_url": "",
+      "category": "Youth & Education",
+      "tags": [
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "Metro accessible using Green line",
+      "access_features": [
+        "Wheelchair accessible",
+        "Accessible restroom",
+        "Gender-neutral restroom",
+        "Close to Metro"
+      ],
+      "attendance_mode": "in_person",
+      "public_contact": "musicforall souls2026@gmail.com",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261024-7E2A",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": true,
+      "slug": "music-for-all-souls-featuring-navasha-daya-and-band"
+    },
     {
       "id": "wpfw-20261019-722C",
       "title": "Community Safety Fair",
@@ -690,6 +732,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-10-25T01:10:45.273Z",
+  "published_at": "2026-10-27T19:58:00.113Z",
   "source": "github"
 }
