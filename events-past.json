@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-27T15:57:59-04:00",
+  "generated": "2026-10-31T04:10:45-04:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,47 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 18,
+  "count": 19,
   "events": [
+    {
+      "id": "wpfw-20261026-0BD1",
+      "title": "“Menopunk the Vote” and Thrive in",
+      "organization": "menopunks.com",
+      "short_description": "Menopunks Brings “Menopunk the Vote” to Washington, DC: Heavens to Betsy and Calamity Jane at the Black Cat, Oct. 30 Riot grrrl punk reunions meet a pre-midterm voter turnout drive and the Menopunks Hormonal Bill of Rights. Preceded by A Menopunks “Thrive-In for Hormonal & Reproductive Justice” at Meridian Park  Website: Menopunks.com, IG: @menopunks, Podcast: Apple or Menopunks YouTube",
+      "full_description": "Menopunks Brings “Menopunk the Vote” to Washington, DC: Heavens to Betsy and Calamity Jane at the Black Cat, Oct. 30 Riot grrrl punk reunions meet a pre-midterm voter turnout drive and the Menopunks Hormonal Bill of Rights. Preceded by A Menopunks “Thrive-In for Hormonal & Reproductive Justice” at Meridian Park  WHAT:  A Menopunks “Menopunk the Vote” tour stop: full-band performances by Heavens to Betsy and Calamity Jane, paired with a Menopunks voter-turnout and hormonal-justice activation. Preceded by A Menopunks “Thrive-In for Hormonal & Reproductive Justice” at Meridian Park 5-7pm WHY: Menopause policy is healthcare policy, and that healthcare policy is on the ballot this fall. One year after the FDA began removing the decades-old black box warnings on menopausal hormone therapy, the movement is on tour presenting its Hormonal Bill of Rights and urging audiences to vote.  WHO:  Heavens to Betsy (Corin Tucker and Tracy Sawyer) and Calamity Jane, hosted by Menopunks founder Alicia J. Rose. WHEN:  Friday, October 30, 2026. Show 8:00 p.m.  WHERE:  Black Cat, 1811 14th St NW, Washington, DC 20009. TICKETS:  On sale via blackcatdc.com/shows/heavens-to-betsy.html ON SITE (Menopunks activation):  A Menopunks resource fair with voting and polling information, health resources, and a live presentation of the Menopunks Hormonal Bill of Rights.   Website: Menopunks.com, IG: @menopunks, Podcast: Apple or Menopunks YouTube Menopunks is a documentary-in-progress, hit podcast and movement founded by filmmaker Alicia J. Rose that explores perimenopause, menopause, creativity, and healthcare through the stories of iconic musicians, artists, physicians, and advocates. Combining punk rock energy with midlife healthcare activism, Menopunks is building a movement for informed care, hormonal and reproductive justice, and a new narrative around midlife healthcare for all.",
+      "start_datetime": "2026-10-30T17:00:00-04:00",
+      "end_datetime": "2026-10-30T22:00:00-04:00",
+      "all_day": false,
+      "venue_name": "Meridian Park and Black Cat DC",
+      "street_address": "16th Street NW (between W Street NW and Euclid Street NW) & 1811 14th St. NW,",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20009",
+      "online_url": "https://blackcatdc.com/shows/heavens-to-betsy.html",
+      "cost_type": "ticketed",
+      "cost_amount": "42.4",
+      "ticket_url": "https://www.etix.com/ticket/p/51518113/heavens-to-betsy",
+      "category": "Health & Healing",
+      "tags": [
+        "Health & Healing",
+        "Gender Justice",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "press@menopunks.com",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261026-0BD1",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "menopunk-the-vote-and-thrive-in"
+    },
     {
       "id": "wpfw-20261024-7E2A",
       "title": "Music for All Souls featuring Navasha Daya and band",
@@ -732,6 +771,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-10-27T19:58:00.113Z",
+  "published_at": "2026-10-31T08:10:45.873Z",
   "source": "github"
 }
