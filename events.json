@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-10-31T04:10:42-04:00",
+  "generated": "2026-11-01T05:10:41-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,52 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 7,
+  "count": 6,
   "events": [
-    {
-      "id": "wpfw-20261024-3FCC",
-      "title": "Stayed on Freedom Community Sing",
-      "organization": "In Process Acapella Singing Group",
-      "short_description": "Community sing with In Process along with Shirli L. Hughes, DC Labor Chorus, and the Umoja Duno Drummers.",
-      "full_description": "Join us as we lift our voices in freedom song and sing out with power! A community singing event with In Process along with Shirli L. Hughes, DC Labor Chorus,  and the Umoja Duno Drummers.",
-      "start_datetime": "2026-10-31T15:00:00-04:00",
-      "end_datetime": "",
-      "all_day": false,
-      "venue_name": "WESLEY UNITED METHODIST CHURCH",
-      "street_address": "5312 Connecticut Ave NW",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20015",
-      "online_url": "",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://www.inprocess.org/#Live",
-      "category": "Labor & Workers",
-      "tags": [
-        "Labor & Workers",
-        "Voting Rights",
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [
-        "Wheelchair accessible",
-        "Accessible restroom",
-        "Gender-neutral restroom",
-        "Free parking"
-      ],
-      "attendance_mode": "in_person",
-      "public_contact": "waterjugpr@gmail.com",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20261024-3FCC",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "stayed-on-freedom-community-sing"
-    },
     {
       "id": "wpfw-20261010-12BF",
       "title": "WPFW 5th 50th Year Benefit Concert and Film",
@@ -308,6 +264,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-10-31T08:10:42.982Z",
+  "published_at": "2026-11-01T10:10:42.406Z",
   "source": "github"
 }
