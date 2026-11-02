@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-02T17:42:51-05:00",
+  "generated": "2026-11-02T18:10:45-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -31,44 +31,6 @@
   "station_label": "WPFW station events",
   "count": 7,
   "events": [
-    {
-      "id": "wpfw-20261102-2C5D",
-      "title": "WPFW Birthday Jubliee",
-      "organization": "WPFW 89.3 FM",
-      "short_description": "On February 27th – the day before WPFW’s actual 50th Birthday – we will host a 50th Jubilee performance with music by artists and discourses by notables across the Jazz and Justice spectrum.  This inspirational event will take place at the 19th Street Baptist Church in Northwest Washington, DC. More details to come. On February 27th – the day before WPFW’s actual 50th Birthday – we will host a 50th Jubilee performance with music by artists and discourses by notables across the Jazz and Justice spectrum.  This inspirational event will take place at the 19th Street Baptist Church in Northwest Washington, DC. More details to come. EARLY BIRD TICKETS AVAILABLE NOW!",
-      "full_description": "On February 27th – the day before WPFW’s actual 50th Birthday – we will host a 50th Jubilee performance with music by artists and discourses by notables across the Jazz and Justice spectrum.  This inspirational event will take place at the 19th Street Baptist Church in Northwest Washington, DC. More details to come. EARLY BIRD TICKETS AVAILABLE NOW!",
-      "start_datetime": "2026-11-02T00:00:00-05:00",
-      "end_datetime": "2027-02-27T23:59:00-05:00",
-      "all_day": false,
-      "venue_name": "Nineteenth Street Baptist Church",
-      "street_address": "4606 16th Street Northwest  Washington, DC 20011",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20011",
-      "online_url": "",
-      "cost_type": "ticketed",
-      "cost_amount": "25",
-      "ticket_url": "https://www.eventbrite.com/e/wpfw-birthday-jubliee-tickets-2004038780941?aff=oddtdtcreator",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice",
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": true,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "in_person",
-      "public_contact": "",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20261102-2C5D",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "wpfw-birthday-jubliee"
-    },
     {
       "id": "wpfw-20261024-7E2A--1",
       "title": "Music for All Souls featuring Navasha Daya and band",
@@ -268,6 +230,44 @@
       "slug": "music-for-all-souls-featuring-navasha-daya"
     },
     {
+      "id": "wpfw-20261102-F24B",
+      "title": "WPFW Birthday Jubliee",
+      "organization": "WPFW 89.3 FM",
+      "short_description": "On February 27th – the day before WPFW’s actual 50th Birthday – we will host a 50th Jubilee performance with music by artists and discourses by notables across the Jazz and Justice spectrum.  This inspirational event will take place at the 19th Street Baptist Church in Northwest Washington, DC. More details to come. On February 27th – the day before WPFW’s actual 50th Birthday – we will host a 50th Jubilee performance with music by artists and discourses by notables across the Jazz and Justice spectrum.  This inspirational event will take place at the 19th Street Baptist Church in Northwest Washington, DC. More details to come. EARLY BIRD TICKETS AVAILABLE NOW!",
+      "full_description": "On February 27th – the day before WPFW’s actual 50th Birthday – we will host a 50th Jubilee performance with music by artists and discourses by notables across the Jazz and Justice spectrum.  This inspirational event will take place at the 19th Street Baptist Church in Northwest Washington, DC. More details to come. On February 27th – the day before WPFW’s actual 50th Birthday – we will host a 50th Jubilee performance with music by artists and discourses by notables across the Jazz and Justice spectrum.  This inspirational event will take place at the 19th Street Baptist Church in Northwest Washington, DC. More details to come. EARLY BIRD TICKETS AVAILABLE NOW!",
+      "start_datetime": "2027-02-27T19:00:00-05:00",
+      "end_datetime": "2027-02-27T22:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Nineteenth Street Baptist Church",
+      "street_address": "4606 16th Street Northwest",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20011",
+      "online_url": "",
+      "cost_type": "ticketed",
+      "cost_amount": "25",
+      "ticket_url": "https://www.eventbrite.com/e/wpfw-birthday-jubliee-tickets-2004038780941?aff=oddtdtcreator",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261102-F24B",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "wpfw-birthday-jubliee"
+    },
+    {
       "id": "wpfw-20260926-50TH",
       "title": "WPFW 50th Anniversary Gala",
       "organization": "WPFW",
@@ -306,6 +306,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-11-02T22:42:52.060Z",
+  "published_at": "2026-11-02T23:10:46.848Z",
   "source": "github"
 }
