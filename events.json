@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-02T02:10:42-05:00",
+  "generated": "2026-11-02T09:42:51-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 3,
+  "count": 4,
   "events": [
     {
       "id": "wpfw-20261024-7E2A--1",
@@ -113,6 +113,47 @@
       "slug": "linda-leaks-and-the-dc-limited-equity-cooperative-movement-teach-in"
     },
     {
+      "id": "wpfw-20261028-873A",
+      "title": "Music for All Souls featuring Navasha Daya",
+      "organization": "All Souls Church Children & Youth Religious Education Committee",
+      "short_description": "A benefit concert featuring Nvasha Daya, a cultural artist, to suppor staff for the children and youth program of  All Souls Church Unitarian",
+      "full_description": "",
+      "start_datetime": "2026-11-07T17:00:00-05:00",
+      "end_datetime": "2026-11-07T18:00:00-05:00",
+      "all_day": false,
+      "venue_name": "All Souls Church Unitarian",
+      "street_address": "1500 Harvard St N.W.",
+      "city": "Washington",
+      "state": "",
+      "zip": "20009",
+      "online_url": "",
+      "cost_type": "ticketed",
+      "cost_amount": "25",
+      "ticket_url": "https://www.eventbrite.com/e/music-for-all-souls-featuring-navasha-daya-registration-2002575081978",
+      "category": "Youth & Education",
+      "tags": [
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [
+        "Wheelchair accessible",
+        "Gender-neutral restroom",
+        "Close to Metro"
+      ],
+      "attendance_mode": "in_person",
+      "public_contact": "musicforall souls2026@gmail.com",
+      "funders": "",
+      "cosponsors": "NOTE:  This is a correction to the original form .  I misunderstood an earlier question. The event date is Nov 7th.",
+      "series_id": "wpfw-20261028-873A",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "music-for-all-souls-featuring-navasha-daya"
+    },
+    {
       "id": "wpfw-20260926-50TH",
       "title": "WPFW 50th Anniversary Gala",
       "organization": "WPFW",
@@ -151,6 +192,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-11-02T07:10:42.532Z",
+  "published_at": "2026-11-02T14:42:52.891Z",
   "source": "github"
 }
