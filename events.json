@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-02T00:10:42-05:00",
+  "generated": "2026-11-02T02:10:42-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,47 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 4,
+  "count": 3,
   "events": [
-    {
-      "id": "wpfw-20261028-63F5",
-      "title": "Haiti On Our Mind",
-      "organization": "Sankofa Video Books & Cafe",
-      "short_description": "A conversation, sounds of rhythm, all in honor the spirit of Haitian resilience. Voices in support of this fundraiser will support WPFW, and its commitment to expose lies and truth about genocide wherever it exists!",
-      "full_description": "",
-      "start_datetime": "2026-11-01T18:00:00-05:00",
-      "end_datetime": "2026-11-01T20:00:00-05:00",
-      "all_day": false,
-      "venue_name": "Sankofa Video Books & Cafe",
-      "street_address": "2714 Georgia Ave NW",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "",
-      "online_url": "",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://www.sankofa.com/events/haiti-on-our-mind-9",
-      "category": "Youth & Education",
-      "tags": [
-        "Youth & Education"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [
-        "Close to Metro"
-      ],
-      "attendance_mode": "in_person",
-      "public_contact": "",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20261028-63F5",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "haiti-on-our-mind"
-    },
     {
       "id": "wpfw-20261024-7E2A--1",
       "title": "Music for All Souls featuring Navasha Daya and band",
@@ -190,6 +151,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-11-02T05:10:42.577Z",
+  "published_at": "2026-11-02T07:10:42.532Z",
   "source": "github"
 }
