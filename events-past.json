@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-03T02:43:01-05:00",
+  "generated": "2026-11-03T03:10:58-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,47 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 24,
+  "count": 23,
   "events": [
-    {
-      "id": "wpfw-20261014-4A48",
-      "title": "Linda Leaks and the DC Limited Equity Cooperative Movement Teach-In",
-      "organization": "This event is organized by Jessica \"Jess\" A. Rucker.hosted by the People's Archive, and supported by the Frederick Dougl",
-      "short_description": "Register to attend this free and intentionally intergenerational learning experience to share in an ongoing movement led by Black women in the decades-old fight for the right to space and place in the nation's capital: https://bit.ly/DCLECTeach-in.",
-      "full_description": "The event seeks to deepen participants’ knowledge of the long and ongoing struggle for safe, decent, and affordable housing in the nation’s capital and will extend access to this critical history at a moment when it has great value, as the nation’s capital continues to be one of the most rapidly gentrifying cities in the United States. Limited equity cooperatives (LECs) became a popular approach to housing justice in DC starting in the late 1970s. In DC, LECs do more than provide cooperatively owned housing affordable to low-income and working-class people; LECs in DC change the material world by reframing housing, democracy, self-determination, and political leadership. The DC LEC movement, from 1978 to 2003, exemplifies how Black women serve as leaders through daily activism and organizing, modeling a literal form of home rule and self-determination in a colonized nation’s capital. This event analyzes LECs in terms of Home Rule and centers a leader of this movement, Linda Leaks–the seasoned Black feminist cooperative educator, activist, and organizer who is known locally as “the Godmother of DC Housing Cooperatives.”",
-      "start_datetime": "2026-11-02T19:00:00-05:00",
-      "end_datetime": "2026-11-02T20:30:00-05:00",
-      "all_day": false,
-      "venue_name": "The Martin Luther King Jr. Memorial Library - ROOM 401A",
-      "street_address": "901 G St. NW",
-      "city": "Washington, DC",
-      "state": "DC",
-      "zip": "20001",
-      "online_url": "https://bit.ly/DCLECTeach-in.",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://dclibrary.libnet.info/event/17589133",
-      "category": "Housing & Tenants",
-      "tags": [
-        "Housing & Tenants",
-        "Racial Justice",
-        "Gender Justice"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "in_person",
-      "public_contact": "jessicaarucker@gmail.com",
-      "funders": "This event is hosted by the People's Archive and supported by the Frederick Douglass Center.",
-      "cosponsors": "",
-      "series_id": "wpfw-20261014-4A48",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "linda-leaks-and-the-dc-limited-equity-cooperative-movement-teach-in"
-    },
     {
       "id": "wpfw-20261028-63F5",
       "title": "Haiti On Our Mind",
@@ -967,6 +928,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-03T07:43:02.071Z",
+  "published_at": "2026-11-03T08:11:02.194Z",
   "source": "github"
 }
