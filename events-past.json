@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-03T05:11:12-05:00",
+  "generated": "2026-11-05T23:11:01-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,46 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 24,
+  "count": 25,
   "events": [
+    {
+      "id": "wpfw-20261102-F816",
+      "title": "U.S.-Nigeria Civic Leadership Forum",
+      "organization": "The African Public Affairs Committee",
+      "short_description": "African Public Affairs Committee will be having a U.S.-Nigeria Civic Leadership Forum, a high-level Washington forum bringing together Nigerian-American leaders.",
+      "full_description": "On Thursday November 5th from 2-5pm the African Public Affairs Committee will be having a U.S.-Nigeria Civic Leadership Forum, a high-level Washington forum bringing together Nigerian-American leaders, policymakers, professionals, and civic stakeholders designed to strengthen Nigerian-American participation in the institutions and conversations that shape public policy while advancing informed engagement around the U.S.-Nigeria relationship.",
+      "start_datetime": "2026-11-05T14:00:00-05:00",
+      "end_datetime": "2026-11-05T17:00:00-05:00",
+      "all_day": false,
+      "venue_name": "1620 L St NW",
+      "street_address": "1620 L Street NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://www.eventbrite.com/e/usnigeria-civic-leadership-forum-tickets-2000065013295?aff=ebdssbdestsearch&dsrp_sid=af133c12-e6fe-4d2d-bdd9-6821d29b9ca7&dsrp_item_id=2000065013295",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice",
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261102-F816",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "u-s-nigeria-civic-leadership-forum"
+    },
     {
       "id": "wpfw-20261024-7E2A--1",
       "title": "Music for All Souls featuring Navasha Daya and band",
@@ -970,6 +1008,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-03T10:11:13.501Z",
+  "published_at": "2026-11-06T04:11:03.480Z",
   "source": "github"
 }
