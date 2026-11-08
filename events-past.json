@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-07T08:10:43-05:00",
+  "generated": "2026-11-07T21:10:57-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,46 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 23,
+  "count": 24,
   "events": [
+    {
+      "id": "wpfw-20261102-79B2",
+      "title": "Olive Harvest Under Zionist Occupation : Panel Discussion",
+      "organization": "The Jerusalem Fund and Eyewitness Palestine",
+      "short_description": "On Saturday November 7th from 1-3pm the The Jerusalem Fund and Eyewitness Palestine will be having a panel discussing settler and Israeli Occupation Forces (IOF) violence towards Palestinians on the ground during the Olive Harvest and year-round. Palestine delegates will discuss violence committed on Palestinians on the ground.",
+      "full_description": "",
+      "start_datetime": "2026-11-07T13:00:00-05:00",
+      "end_datetime": "2026-11-07T15:00:00-05:00",
+      "all_day": false,
+      "venue_name": "The Jerusalem Fund",
+      "street_address": "2425 Virginia Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://www.eventbrite.com/e/olive-harvest-under-zionist-occupation-tickets-2003840014425?aff=ebdssbdestsearch&dsrp_sid=cb26172a-d897-4369-afcc-6da5532b0b99&dsrp_item_id=2003840014425",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice",
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261102-79B2",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "olive-harvest-under-zionist-occupation-panel-discussion"
+    },
     {
       "id": "wpfw-20261102-F816",
       "title": "U.S.-Nigeria Civic Leadership Forum",
@@ -924,6 +962,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-07T13:10:43.211Z",
+  "published_at": "2026-11-08T02:10:59.127Z",
   "source": "github"
 }
