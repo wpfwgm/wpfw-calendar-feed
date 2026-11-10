@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-09T20:10:42-05:00",
+  "generated": "2026-11-09T21:27:52-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 7,
+  "count": 9,
   "events": [
     {
       "id": "wpfw-20261106-5DD6",
@@ -80,6 +80,44 @@
       "slug": "land-is-power-indigenous-sovereignty-and-black-liberation"
     },
     {
+      "id": "wpfw-20261109-E98C",
+      "title": "New Age Open Mic Poetry Showcase",
+      "organization": "Youth-Led",
+      "short_description": "On Wednesday, November 11th from 8-10 pm New Age Open Mic, a free, youth-led poetry showcase and open mic will be held at Sankofa Video Books and Café, centering Poetry As Protest.",
+      "full_description": "",
+      "start_datetime": "2026-11-11T20:00:00-05:00",
+      "end_datetime": "2026-11-11T22:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Sankofa Video Books & Cafe",
+      "street_address": "2714 Georgia Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "https://www.sankofa.com/events/poetry-as-protest-new-age-poetry-showcase-and-open-mic-8",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Youth & Education",
+      "tags": [
+        "Youth & Education",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261109-E98C",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "new-age-open-mic-poetry-showcase"
+    },
+    {
       "id": "wpfw-20261030-EA4D",
       "title": "Protect East Potomac Park Lobby Day",
       "organization": "U.S. Senator Ankit Jain, Washington Area Bicyclist Association, and Save East Po",
@@ -121,6 +159,44 @@
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "protect-east-potomac-park-lobby-day"
+    },
+    {
+      "id": "wpfw-20261109-1780",
+      "title": "Two-part Discussion Series",
+      "organization": "De. Krist Johnson, Dr. Xolela Mangcu, Dr. Ademide & Sipho Sithole, PhD",
+      "short_description": "Saturday, November 14th from 3-5 pm, the first of a two part discussion series with De. Krist Johnson, Dr. Xolela Mangcu, Dr. Ademide & Sipho Sithole, PhD will center on Xenophobic attacks in South Africa, examining the factors that contributed to their emergence and consequential effects on society. Located at Sankofa Video, Books & Cafe, 2714 Georgia Ave NW, Washington, DC.",
+      "full_description": "",
+      "start_datetime": "2026-11-14T15:00:00-05:00",
+      "end_datetime": "2026-11-14T17:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Sankofa Video Books & Cafe",
+      "street_address": "2714 Georgia Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "https://www.sankofa.com/events/xenophobia-or-afrophobia-anti-african-hostility-from-johannesburg-to-the-global-north",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice",
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261109-1780",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "two-part-discussion-series"
     },
     {
       "id": "wpfw-20261106-4590",
@@ -317,6 +393,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-11-10T01:10:43.456Z",
+  "published_at": "2026-11-10T02:27:53.157Z",
   "source": "github"
 }
