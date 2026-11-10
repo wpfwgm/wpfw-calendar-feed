@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-09T13:57:51-05:00",
+  "generated": "2026-11-09T19:27:51-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 4,
+  "count": 5,
   "events": [
     {
       "id": "wpfw-20261106-4590",
@@ -70,6 +70,44 @@
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "wpfw-local-station-board-meeting"
+    },
+    {
+      "id": "wpfw-20261109-4938",
+      "title": "WPFW LSB Town Hall & Panel Discussion & Winter Clothes Drive",
+      "organization": "WPFW",
+      "short_description": "WPFW invites listeners to participate in our Town Hall & Winter Clothes Drive!",
+      "full_description": "WPFW invites listeners to participate with our end of year Town Hall Meeting and our Winter Clothes Drive!\n\nWhat: WPFW LSB Town Hall & Panel Discussion AND Winter Clothes Drive\nWhen: Saturday, November 21, 2026\nWhere: New Bethany Baptist Church, 1300 10th Street, NW WDC 20001\nTime: 12pm - 3pm\nPanelists: Rev. Jesse J. Jackson (Pastor, New Bethany Baptist Church), Garland Nixon (Host of 'News Views' on WPFW), OnRae LaTeal (Freedom Futures Collective), Nakeisha Neal Jones (Black Women Thriving East of the River). & Jasmine Hicks (Koren Consulting)\n\nDonations will be accepted from 12:00 - 3:00 PM ET\n\nWe are currently looking for the following items in new or lightly used condition for men, women, and children:\nWinter Coats\nHats\nGloves\nSocks\n\nJoin us with warm hearts and some warm clothing to help take the chill out of this winter for neighbors in need.\n\nFor more information please visit the WPFW website www.wpfwdc.org.",
+      "start_datetime": "2026-11-21T12:00:00-05:00",
+      "end_datetime": "2026-11-21T15:00:00-05:00",
+      "all_day": false,
+      "venue_name": "https://us06web.zoom.us/j/87035810487",
+      "street_address": "",
+      "city": "",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://www.eventbrite.com/e/wpfw-lsb-town-hall-panel-discussion-winter-clothes-drive-tickets-2004611128849?aff=oddtdtcreator",
+      "category": "Housing & Tenants",
+      "tags": [
+        "Housing & Tenants",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261109-4938",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "wpfw-lsb-town-hall-and-panel-discussion-and-winter-clothes-drive"
     },
     {
       "id": "wpfw-20261109-BC58",
@@ -188,6 +226,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-11-09T18:57:52.138Z",
+  "published_at": "2026-11-10T00:27:52.070Z",
   "source": "github"
 }
