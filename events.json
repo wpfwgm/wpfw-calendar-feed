@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-09T21:27:52-05:00",
+  "generated": "2026-11-11T12:57:50-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 9,
+  "count": 10,
   "events": [
     {
       "id": "wpfw-20261106-5DD6",
@@ -277,6 +277,45 @@
       "slug": "wpfw-lsb-town-hall-and-panel-discussion-and-winter-clothes-drive"
     },
     {
+      "id": "wpfw-20261111-61AE",
+      "title": "WPFW Town Hall Meeting and Winter Clothes Drive",
+      "organization": "WPFW",
+      "short_description": "WPFW invites listeners to participate with our end of year Town Hall Meeting and our Winter Clothes Drive!",
+      "full_description": "What: WPFW LSB Town Hall & Panel Discussion AND Winter Clothes Drive\nTopic: After the Ballot: What's Next for Our Community?\nJoin the WPFW Town Hall for station updates and a panel discussion on turning midterm momentum into sustained action.\n\nWhen: Saturday, November 21, 2026\nWhere: New Bethany Baptist Church, 1300 10th Street, NW WDC 20001\nTime: 12pm - 3pm\n\nPanelists: Rev. Jesse J. Jackson (Pastor, New Bethany Baptist Church), Garland Nixon (Host of 'News Views' on WPFW), OnRae LaTeal (Freedom Futures Collective), Nakeisha Neal Jones (Black Women Thriving East of the River). & Jasmine Hicks (Koren Consulting)\n\nDonations will be accepted from 12:00 - 3:00 PM ET\n\nWe are currently looking for the following items in new or lightly used condition for men, women, and children:\nWinter Coats\nHats\nGloves\nSocks\n\nJoin us with warm hearts and some warm clothing to help take the chill out of this winter for neighbors in need.\n\nPlease register at the link listed. Thank you!",
+      "start_datetime": "2026-11-22T12:00:00-05:00",
+      "end_datetime": "2026-11-22T15:00:00-05:00",
+      "all_day": false,
+      "venue_name": "New Bethany Baptist Church",
+      "street_address": "1300 10th Street, NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20001",
+      "online_url": "https://www.eventbrite.com/e/wpfw-lsb-town-hall-panel-discussion-winter-clothes-drive-tickets-2004611128849?aff=oddtdtcreator",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Housing & Tenants",
+      "tags": [
+        "Housing & Tenants",
+        "Climate & Environment",
+        "Voting Rights"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "hybrid",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261111-61AE",
+      "date_tbc": false,
+      "attendance_label": "both in person and online",
+      "is_repeat": false,
+      "slug": "wpfw-town-hall-meeting-and-winter-clothes-drive"
+    },
+    {
       "id": "wpfw-20261109-BC58",
       "title": "LoveSound: An Evening of Soul Sisters in Performance",
       "organization": "Friends of the Congo, Africa World Now Project and WPFW",
@@ -393,6 +432,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-11-10T02:27:53.157Z",
+  "published_at": "2026-11-11T17:57:50.939Z",
   "source": "github"
 }
