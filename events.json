@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-11T14:10:41-05:00",
+  "generated": "2026-11-12T03:11:04-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,56 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 10,
+  "count": 9,
   "events": [
-    {
-      "id": "wpfw-20261106-5DD6",
-      "title": "Land is Power: Indigenous Sovereignty and Black Liberation",
-      "organization": "Pan-African Community Action",
-      "short_description": "Wednesday, November 11th is Pan-African Community Action’s next Assata Shakur Popular Education session, \" Land is Power: Indigenous Sovereignty and Black Liberation\" an interactive discussion with multimedia presentation from 7 to 9 PM at the Black Workers & Wellness Center on 2500 Martin Luther King Jr Avenue, Southeast, DC. More information and registration is on \"Popular Education [dot] Eventb",
-      "full_description": "This session of Assata Shakur Popular Education (ASPE) will examine the history of Indigenous resistance to settler colonialism, the origins of private property, and the connections between Indigenous land struggles and broader African liberation movements. We will explore the contradictions between liberal reforms, land acknowledgments, and genuine land sovereignty, including the struggle for nationhood, self-determination, and community control. Through historical and contemporary examples, we will examine how displacement, environmental destruction, and the continued occupation of Indigenous lands sustain colonial relationships of power. Finally, we will connect these struggles to the conditions facing working- class Black communities in Southeast DC, exploring how the lack of community control over land shapes development, environmental conditions, public resources, and everyday life.  ASPEs are hybrid sessions and can be attended via Zoom. To receive the Zoom link register here https://Populareducation.eventbrite.com  Food and refreshments will be provided. All are welcome.",
-      "start_datetime": "2026-11-11T19:00:00-05:00",
-      "end_datetime": "2026-11-11T21:00:00-05:00",
-      "all_day": false,
-      "venue_name": "Black Workers & Wellness Center",
-      "street_address": "2500 Martin Luther King Junior Avenue SE",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20020",
-      "online_url": "",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://Populareducation.eventbrite.com",
-      "category": "Housing & Tenants",
-      "tags": [
-        "Housing & Tenants",
-        "Racial Justice",
-        "Labor & Workers"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [
-        "Wheelchair accessible",
-        "Step-free entrance",
-        "Accessible restroom",
-        "Gender-neutral restroom",
-        "Masks encouraged",
-        "Food provided",
-        "Close to Metro",
-        "Livestreamed"
-      ],
-      "attendance_mode": "in_person",
-      "public_contact": "paca@protonmail.com",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20261106-5DD6",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "land-is-power-indigenous-sovereignty-and-black-liberation"
-    },
     {
       "id": "wpfw-20261109-E98C",
       "title": "New Age Open Mic Poetry Showcase",
@@ -431,6 +383,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-11-11T19:10:41.478Z",
+  "published_at": "2026-11-12T08:11:17.276Z",
   "source": "github"
 }
