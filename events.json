@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-13T15:27:52-05:00",
+  "generated": "2026-11-13T16:57:51-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -316,7 +316,7 @@
       "state": "MD",
       "zip": "20770",
       "online_url": "https://wpfwdc.org/50th-anniversary",
-      "cost_type": "free",
+      "cost_type": "ticketed",
       "cost_amount": "",
       "ticket_url": "https://www.eventbrite.com/e/wpfw-50th-anniversary-gala-tickets-2004251881330?aff=oddtdtcreator",
       "category": "Labor & Workers",
@@ -341,6 +341,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-13T20:27:52.332Z",
+  "published_at": "2026-11-13T21:57:51.545Z",
   "source": "github"
 }
