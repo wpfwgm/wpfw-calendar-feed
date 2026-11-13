@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-12T23:10:41-05:00",
+  "generated": "2026-11-13T15:27:52-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 7,
+  "count": 8,
   "events": [
     {
       "id": "wpfw-20261111-C7BC",
@@ -300,8 +300,47 @@
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "wpfw-50th-anniversary-gala"
+    },
+    {
+      "id": "wpfw-20261113-EFBF",
+      "title": "WPFW 50th Anniversary Gala",
+      "organization": "WPFW",
+      "short_description": "WPFW turns fifty on February 28, 2027, and this is the night the station will celebrate it. An evening of music, guest speakers and special tributes.",
+      "full_description": "WPFW turns fifty on February 28, 2027, and this is the night the station marks it. An evening of music, guest speakers and special tributes at Martin's Crosswinds in Greenbelt, Maryland. Some of the people in that room signed the station on in 1977. Some found 89.3 last week on a car radio. It is the first real chance in a long time to get listeners, volunteers, programmers and staff under one roof.  Early bird tickets are available now.  More details to be announced soon.",
+      "start_datetime": "2027-05-02T18:00:00-04:00",
+      "end_datetime": "2027-05-02T22:00:00-04:00",
+      "all_day": false,
+      "venue_name": "Martin's Crosswinds",
+      "street_address": "7400 Greenway Center Dr",
+      "city": "Greenbelt",
+      "state": "MD",
+      "zip": "20770",
+      "online_url": "https://wpfwdc.org/50th-anniversary",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://www.eventbrite.com/e/wpfw-50th-anniversary-gala-tickets-2004251881330?aff=oddtdtcreator",
+      "category": "Labor & Workers",
+      "tags": [
+        "Labor & Workers",
+        "LGBTQ+",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "hybrid",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261113-EFBF",
+      "date_tbc": false,
+      "attendance_label": "both in person and online",
+      "is_repeat": false,
+      "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-13T04:10:42.039Z",
+  "published_at": "2026-11-13T20:27:52.332Z",
   "source": "github"
 }
