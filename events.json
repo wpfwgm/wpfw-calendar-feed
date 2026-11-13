@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-12T04:10:41-05:00",
+  "generated": "2026-11-12T23:10:41-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,51 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 8,
+  "count": 7,
   "events": [
-    {
-      "id": "wpfw-20261030-EA4D",
-      "title": "Protect East Potomac Park Lobby Day",
-      "organization": "U.S. Senator Ankit Jain, Washington Area Bicyclist Association, and Save East Po",
-      "short_description": "Join us at Protect East Potomac Park Lobby Day! Community members and advocates will meet with congressional offices to urge lawmakers to disapprove a proposed $450 million in federal funding without clear and explicit prohibitions on any further redevelopment of East Potomac Park until the seawall construction is complete.",
-      "full_description": "The Office of United States Senator Ankit Jain, the Washington Area Bicyclist Association (WABA), Save East Po, and other partner organizations will bring community members and advocates to Capitol Hill for a Lobby Day to protect East Potomac Park and Hains Point from the Trump administration’s proposed redevelopment.  In a June 24, 2026, funding request to Congress, the Trump administration requested $450 million for the National Park Service's construction account to rebuild the aging seawall surrounding East Potomac Park.  As Congress considers whether to include this request in an upcoming continuing resolution, advocates are urging lawmakers not to approve the funding without clear and explicit prohibitions on any further redevelopment of East Potomac Park until the seawall construction is complete.  Participants will meet with congressional offices throughout the day to urge lawmakers to protect East Potomac Park as an accessible, affordable, multi-use public space for everyone and ensure that federal funding cannot be diverted to support the President's proposed redevelopment.",
-      "start_datetime": "2026-11-12T09:00:00-05:00",
-      "end_datetime": "2026-11-12T17:00:00-05:00",
-      "all_day": true,
-      "venue_name": "Room 130, Cannon House Office Building",
-      "street_address": "27 Independence Avenue SE",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20003",
-      "online_url": "https://www.eventbrite.com/e/protect-east-potomac-park-lobby-day-tickets-2003360973601",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "",
-      "category": "Climate & Environment",
-      "tags": [
-        "Climate & Environment",
-        "Racial Justice",
-        "Voting Rights"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "https://x.com/EricFlackTV/status/2115625408733335750/photo/1",
-      "accessibility_notes": "",
-      "access_features": [
-        "Wheelchair accessible",
-        "Accessible restroom",
-        "Close to Metro"
-      ],
-      "attendance_mode": "in_person",
-      "public_contact": "",
-      "funders": "Office of U.S. Senator Ankit Jain (https://www.senatorjaindc.com/) Washington Area Bicyclist Association (WABA) (https://waba.org/) Save East Po (https://saveeastpo.com/)",
-      "cosponsors": "",
-      "series_id": "wpfw-20261030-EA4D",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "protect-east-potomac-park-lobby-day"
-    },
     {
       "id": "wpfw-20261111-C7BC",
       "title": "Film Screening of Once Upon a Time in Harlem",
@@ -345,6 +302,6 @@
       "slug": "wpfw-50th-anniversary-gala"
     }
   ],
-  "published_at": "2026-11-12T09:10:42.402Z",
+  "published_at": "2026-11-13T04:10:42.039Z",
   "source": "github"
 }
