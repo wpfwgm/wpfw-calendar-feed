@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-13T16:57:51-05:00",
+  "generated": "2026-11-14T06:10:42-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,45 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 8,
+  "count": 7,
   "events": [
-    {
-      "id": "wpfw-20261111-C7BC",
-      "title": "Film Screening of Once Upon a Time in Harlem",
-      "organization": "Cinema Arts Theathre",
-      "short_description": "Film screening of the film \"Once Upon a Time in Harlem\".",
-      "full_description": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraordinary group – many of whom had not seen each other in fifty years – reminisced, critiqued, argued, laughed and drank while wrestling with their place in a rapidly shifting cultural landscape. Shot on 16mm film, newly restored and now directed by Greaves’ son David, this landmark film is at once a self-exploration and an inquiry into the heart of the critical mass of energy called the Harlem Renaissance. William Greaves’ intent was not only to document these artists and intellectuals as they spoke about their lives and work but also to plumb the meaning of the extraordinary creative period in which they lived to help us better understand how culture has been passed on from one generation to another and the role that the artist plays in keeping it alive.\n\nPlease check theatre website for showtimes.",
-      "start_datetime": "2026-11-13T09:40:00-05:00",
-      "end_datetime": "",
-      "all_day": false,
-      "venue_name": "Cinema Arts Theatre",
-      "street_address": "9650 Unit 14 Main St.",
-      "city": "Fairfax",
-      "state": "VA",
-      "zip": "22031",
-      "online_url": "",
-      "cost_type": "ticketed",
-      "cost_amount": "$7-$14",
-      "ticket_url": "https://www.cinemaartstheatre.com/movies/1000037451-once-upon-a-time-in-harlem/?date=2026-11-13",
-      "category": "Arts & Culture",
-      "tags": [
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "in_person",
-      "public_contact": "",
-      "funders": "",
-      "cosponsors": "",
-      "series_id": "wpfw-20261111-C7BC",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "film-screening-of-once-upon-a-time-in-harlem"
-    },
     {
       "id": "wpfw-20261109-1780",
       "title": "Two-part Discussion Series",
@@ -341,6 +304,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-13T21:57:51.545Z",
+  "published_at": "2026-11-14T11:10:42.953Z",
   "source": "github"
 }
