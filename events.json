@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-18T01:10:42-05:00",
+  "generated": "2026-11-18T02:10:44-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,52 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 10,
+  "count": 9,
   "events": [
-    {
-      "id": "wpfw-20261109-BB70",
-      "title": "We Must Never Forget: Book Talk for Art Against Brutality",
-      "organization": "Institute for Policy Studies",
-      "short_description": "Tuesday, November 17th, the Institute for Policy Studies invites you to \" We Must Never Forget: A Book Talk for Art Against Brutality\" about the 1981 massacre of one thousand innocent civilians, many of them small children, in El Mozote, El Salvador, 6:00 to 8:00 pm at the Takoma Park Busboys and Poets. More information and RSVP can be found on \"IPS [dash] DC [dot] Org [slash] Events.\"",
-      "full_description": "Join us to learn about the 1981 massacre of one thousand innocent civilians, many of them small children, in El Mozote, El Salvador, and the1989 murder of six Jesuit priests, their housekeeper and her fifteen-year-old daughter at the University of Central America in San Salvador.  To help us understand, remember, and teach our children and grandchildren, come to hear Claudia Bernardi's story of sifting through the earth in El Mozote and finding small, fractured, frail bones, \"which resembled those of a small bird...the only evidence of a child robbed of his or her life and future.\"  \"Claudia Bernardi, the world-renowned painter, has spent much of her life guiding people and communities in their search to recover from horrific violence. In El Salvador, Argentina, Guatemala, Colombia, and other damaged places, Bernardi has made her home among communities of the traumatized... Art Against Brutality is an essential book.\" —Mark Danner, author of The Massacre at El Mozote  Speakers Will Include  -- Claudia Bernardi, Artist and Author -- Representative Jim McGovern -- Carolyn Forché, Poet Author: What You Have Heard Is True -- Professor Ana Patricia Rodriguez, University of Maryland School of Languages, Literatures, and Cultures -- Ana Maria Méndez, WOLA Director For Latin America -- Lilo Gonzalez, Singer, Songwriter",
-      "start_datetime": "2026-11-17T18:00:00-05:00",
-      "end_datetime": "2026-11-17T20:00:00-05:00",
-      "all_day": false,
-      "venue_name": "Busboys and Poets – Takoma",
-      "street_address": "234 Carroll Street NW",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "20012",
-      "online_url": "https://action.ips-dc.org/a/%20book-talk-art-against-brutality",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice",
-        "Immigration",
-        "Arts & Culture"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "https://ips-dc.org/wp-content/uploads/2026/11/SITE-PIC_art-against-brutality-book-talk-FINAL.jpg",
-      "accessibility_notes": "",
-      "access_features": [
-        "Wheelchair accessible",
-        "Step-free entrance",
-        "Accessible restroom",
-        "Close to Metro"
-      ],
-      "attendance_mode": "in_person",
-      "public_contact": "netfa@ips-dc.org",
-      "funders": "",
-      "cosponsors": "Sponsored by: Busboys and Poets, Center for Latina American and Latino Studies AU, Central American Resource Center (CARECEN), CISPES, Department of Spanish and Portuguese UMD, Immigration Lab AU, Institute for Policy Studies, Teaching for Change, Washington Ethical Society GC, and Washington Office",
-      "series_id": "wpfw-20261109-BB70",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "we-must-never-forget-book-talk-for-art-against-brutality"
-    },
     {
       "id": "wpfw-20261110-934E",
       "title": "Community Health and Building Alternatives to the Medical Industrial Complex",
@@ -427,6 +383,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-18T06:10:42.889Z",
+  "published_at": "2026-11-18T07:10:44.575Z",
   "source": "github"
 }
