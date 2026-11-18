@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-14T23:10:45-05:00",
+  "generated": "2026-11-18T01:10:45-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,46 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 30,
+  "count": 31,
   "events": [
+    {
+      "id": "wpfw-20261116-C720",
+      "title": "Labor Campaigns Discussion",
+      "organization": "The Labor Working Group",
+      "short_description": "The Labor Working Group will discuss updates on ongoing labor campaigns, identifies action steps for solidarity, listen to fellow activists and local unions for educational insight, and share opportunities for further organizing. This hybrid event is open to both DSA Members and supporters. For virtual attendance, a Zoom registration link will be sent via email after registering.",
+      "full_description": "",
+      "start_datetime": "2026-11-17T17:30:00-05:00",
+      "end_datetime": "2026-11-17T19:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Martin Luther King Jr. Library",
+      "street_address": "901 G St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://actionnetwork.org",
+      "category": "Labor & Workers",
+      "tags": [
+        "Labor & Workers",
+        "Youth & Education"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261116-C720",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "labor-campaigns-discussion"
+    },
     {
       "id": "wpfw-20261109-1780",
       "title": "Two-part Discussion Series",
@@ -1207,6 +1245,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-15T04:10:46.399Z",
+  "published_at": "2026-11-18T06:10:46.064Z",
   "source": "github"
 }
