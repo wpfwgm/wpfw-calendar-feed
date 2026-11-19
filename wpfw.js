@@ -787,8 +787,8 @@ window.WPFW_EVENTS = window.WPFW_EVENTS || (function () {
       applyUploadAvailability();
       if (res.limits) for (var k in res.limits) LIMITS[k] = res.limits[k];
 
-      $('wpfw-turnaround').textContent =
-        ' Submissions are reviewed within ' + SERVER.turnaround + '.';
+      /* Nov 2026: the form no longer promises a review deadline. */
+      $('wpfw-turnaround').textContent = '';
       /* Both numbers come from Config, and the station is entitled to set the notice
          period to 0 -- meaning "no notice required", not "zero days of notice", which
          is what the old sentence read out. Built rather than concatenated so 0, 1 and
@@ -1531,8 +1531,8 @@ window.WPFW_EVENTS = window.WPFW_EVENTS || (function () {
     $('wpfw-confirm-body').textContent = res.message ||
       'Your event has been received and is waiting for review.';
     $('wpfw-confirm-turnaround').textContent =
-      'Our moderator reviews submissions within ' + (res.turnaround || SERVER.turnaround) +
-      '. We may edit your listing for length and style. A listing is not an endorsement.';
+      'Our moderator will review it, and we will email you once it is listed. ' +
+      'We may edit your listing for length and style. A listing is not an endorsement.';
     var qTag = $('wpfw-confirm-tag'), qHead = $('wpfw-confirm-head'), qMail = $('wpfw-confirm-emailnote');
     if (res.quick) {
       if (qTag) qTag.textContent = res.published ? 'Published' : 'Held';
