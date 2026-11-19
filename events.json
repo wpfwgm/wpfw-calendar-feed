@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-19T06:10:44-05:00",
+  "generated": "2026-11-19T16:57:53-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -180,7 +180,7 @@
       "attendance_mode": "in_person",
       "public_contact": "",
       "funders": "",
-      "cosponsors": "Friends of the Congo, Africa World Now Project, & WPFW",
+      "cosponsors": "",
       "series_id": "wpfw-20261109-BC58",
       "date_tbc": false,
       "attendance_label": "in person",
@@ -303,6 +303,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-19T11:10:44.751Z",
+  "published_at": "2026-11-19T21:57:54.791Z",
   "source": "github"
 }
