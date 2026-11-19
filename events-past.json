@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-19T17:19:44-05:00",
+  "generated": "2026-11-19T17:27:52-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -92,7 +92,7 @@
         "Racial Justice",
         "Health & Healing"
       ],
-      "dcf_grantee": false,
+      "dcf_grantee": true,
       "station_event": false,
       "image_url": "",
       "accessibility_notes": "",
@@ -357,7 +357,7 @@
         "Racial Justice",
         "Labor & Workers"
       ],
-      "dcf_grantee": false,
+      "dcf_grantee": true,
       "station_event": false,
       "image_url": "",
       "accessibility_notes": "",
@@ -1216,7 +1216,7 @@
         "Youth & Education",
         "Voting Rights"
       ],
-      "dcf_grantee": true,
+      "dcf_grantee": false,
       "station_event": false,
       "image_url": "",
       "accessibility_notes": "",
@@ -1287,7 +1287,7 @@
         "Racial Justice",
         "Youth & Education"
       ],
-      "dcf_grantee": true,
+      "dcf_grantee": false,
       "station_event": false,
       "image_url": "",
       "accessibility_notes": "",
@@ -1301,6 +1301,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-19T22:19:44.573Z",
+  "published_at": "2026-11-19T22:27:52.525Z",
   "source": "github"
 }
