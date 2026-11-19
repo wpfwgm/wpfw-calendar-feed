@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-19T06:10:48-05:00",
+  "generated": "2026-11-19T16:58:00-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -148,7 +148,7 @@
       "attendance_mode": "in_person",
       "public_contact": "netfa@ips-dc.org",
       "funders": "",
-      "cosponsors": "Sponsored by: Busboys and Poets, Center for Latina American and Latino Studies AU, Central American Resource Center (CARECEN), CISPES, Department of Spanish and Portuguese UMD, Immigration Lab AU, Institute for Policy Studies, Teaching for Change, Washington Ethical Society GC, and Washington Office",
+      "cosponsors": "",
       "series_id": "wpfw-20261109-BB70",
       "date_tbc": false,
       "attendance_label": "in person",
@@ -303,7 +303,7 @@
       ],
       "attendance_mode": "in_person",
       "public_contact": "",
-      "funders": "Office of U.S. Senator Ankit Jain (https://www.senatorjaindc.com/) Washington Area Bicyclist Association (WABA) (https://waba.org/) Save East Po (https://saveeastpo.com/)",
+      "funders": "",
       "cosponsors": "",
       "series_id": "wpfw-20261030-EA4D",
       "date_tbc": false,
@@ -431,7 +431,7 @@
       "attendance_mode": "in_person",
       "public_contact": "musicforall souls2026@gmail.com",
       "funders": "",
-      "cosponsors": "NOTE:  This is a correction to the original form .  I misunderstood an earlier question. The event date is Nov 7th.",
+      "cosponsors": "",
       "series_id": "wpfw-20261028-873A",
       "date_tbc": false,
       "attendance_label": "in person",
@@ -785,7 +785,7 @@
       "attendance_mode": "in_person",
       "public_contact": "netfa@ips-dc.org",
       "funders": "",
-      "cosponsors": "the Africa World Now Project, Black Alliance for Peace, Friends of the Congo, and",
+      "cosponsors": "",
       "series_id": "wpfw-20261014-0958",
       "date_tbc": false,
       "attendance_label": "in person",
@@ -939,8 +939,8 @@
       "access_features": [],
       "attendance_mode": "in_person",
       "public_contact": "",
-      "funders": "Ron Verdonk, Debby Mathis and the Davies Unitarian Universalist Congregation Bridge Brigade",
-      "cosponsors": "Registered with Mobilized and Indivisible",
+      "funders": "",
+      "cosponsors": "",
       "series_id": "wpfw-20260929-F8DB",
       "date_tbc": false,
       "attendance_label": "in person",
@@ -1369,6 +1369,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-19T11:10:48.907Z",
+  "published_at": "2026-11-19T21:58:01.956Z",
   "source": "github"
 }
