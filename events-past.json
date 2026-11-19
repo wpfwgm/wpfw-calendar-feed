@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-18T02:10:47-05:00",
+  "generated": "2026-11-18T19:10:51-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,48 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 32,
+  "count": 33,
   "events": [
+    {
+      "id": "wpfw-20261110-934E",
+      "title": "Community Health and Building Alternatives to the Medical Industrial Complex",
+      "organization": "Diverse City Fund and Pan-African Community Action",
+      "short_description": "Join us for this virtual forum in partnership with our grantee-partner Pan-African Community Action that will talk about the work they are doing around health justice and challenging the medical industrial complex.",
+      "full_description": "Join us to our next virtual forum in partnership with our grantee-partner Pan African Community Action (PACA) about the work they are doing around health justice and challenging the medical industrial complex. As federal and local budget cuts and work requirements continue to hit Black, working class, and immigrant communities the hardest, come learn about what a community-led health program looks like in practice.  This forum offers funding partners and community members alike an opportunity to learn more about ways they can support and plug into this work.",
+      "start_datetime": "2026-11-18T12:00:00-05:00",
+      "end_datetime": "2026-11-18T13:00:00-05:00",
+      "all_day": false,
+      "venue_name": "",
+      "street_address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "online_url": "https://bit.ly/3VTDPkM",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice",
+        "Health & Healing"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [
+        "Spanish interpretation"
+      ],
+      "attendance_mode": "virtual",
+      "public_contact": "",
+      "funders": "",
+      "cosponsors": "",
+      "series_id": "wpfw-20261110-934E",
+      "date_tbc": false,
+      "attendance_label": "online",
+      "is_repeat": false,
+      "slug": "community-health-and-building-alternatives-to-the-medical-industrial-c"
+    },
     {
       "id": "wpfw-20261109-BB70",
       "title": "We Must Never Forget: Book Talk for Art Against Brutality",
@@ -1289,6 +1329,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-18T07:10:47.569Z",
+  "published_at": "2026-11-19T00:10:53.241Z",
   "source": "github"
 }
