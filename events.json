@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-19T18:28:01-05:00",
+  "generated": "2026-11-20T11:10:42-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 7,
+  "count": 8,
   "events": [
     {
       "id": "wpfw-20261111-61AE",
@@ -180,6 +180,43 @@
       "slug": "lovesound-an-evening-of-soul-sisters-in-performance"
     },
     {
+      "id": "wpfw-20261120-AA85",
+      "title": "WPFW U Street Jam",
+      "organization": "WPFW",
+      "short_description": "Celebrate the holiday season with us!\n\nMusic of the 60s, 70s, 80s, 90s & today provided by our very own WPFW Programmers. Line-Up to be announced soon.\n\nFood & Cash Bar.\n\nAll proceeds to benefit WPFW 89.3 FM. Come and support this LSB event and have the time of your life!",
+      "full_description": "Celebrate the holiday season with us!\n\nMusic of the 60s, 70s, 80s, 90s & today provided by our very own WPFW Programmers. Line-Up to be announced soon.\n\nFood & Cash Bar.\n\nAll proceeds to benefit WPFW 89.3 FM. Come and support this LSB event and have the time of your life!",
+      "start_datetime": "2026-12-13T17:00:00-05:00",
+      "end_datetime": "2026-12-13T22:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Prince Hall Masonic Temple",
+      "street_address": "1000 U Street Northwest",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20001",
+      "online_url": "",
+      "cost_type": "ticketed",
+      "cost_amount": "25",
+      "ticket_url": "https://www.eventbrite.com/e/2004797387955?aff=oddtdtcreator",
+      "category": "Arts & Culture",
+      "tags": [
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [
+        "Close to Metro"
+      ],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "series_id": "wpfw-20261120-AA85",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "wpfw-u-street-jam"
+    },
+    {
       "id": "wpfw-20261102-F24B",
       "title": "WPFW Birthday Jubliee",
       "organization": "WPFW 89.3 FM",
@@ -289,6 +326,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-19T23:28:04.448Z",
+  "published_at": "2026-11-20T16:10:43.073Z",
   "source": "github"
 }
