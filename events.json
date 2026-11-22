@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-21T21:10:43-05:00",
+  "generated": "2026-11-21T23:12:52-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,44 +29,8 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 7,
+  "count": 6,
   "events": [
-    {
-      "id": "wpfw-20261116-6EA4",
-      "title": "Deep Dive into Ocean of Bones",
-      "organization": "with author, David Kushner, and diver and Vietnam War veteran, Ken Stewart",
-      "short_description": "Sankofa Video Books & Cafe will be having a dive deep into Ocean of Bones with author, David Kushner, and diver and Vietnam War veteran, Ken Stewart, to find the remains of the slave ship Guerrero.",
-      "full_description": "",
-      "start_datetime": "2026-11-21T14:00:00-05:00",
-      "end_datetime": "2026-11-21T17:00:00-05:00",
-      "all_day": false,
-      "venue_name": "Sankofa Video Books & Cafe",
-      "street_address": "2714 Georgia Ave NW",
-      "city": "Washington",
-      "state": "DC",
-      "zip": "",
-      "online_url": "https://www.sankofa.com/events",
-      "cost_type": "free",
-      "cost_amount": "",
-      "ticket_url": "https://www.sankofa.com/events/book-event-ocean-of-bones-the-hunt-for-the-pirate-slave-ship-guerrero",
-      "category": "Racial Justice",
-      "tags": [
-        "Racial Justice",
-        "Youth & Education"
-      ],
-      "dcf_grantee": false,
-      "station_event": false,
-      "image_url": "",
-      "accessibility_notes": "",
-      "access_features": [],
-      "attendance_mode": "in_person",
-      "public_contact": "",
-      "series_id": "wpfw-20261116-6EA4",
-      "date_tbc": false,
-      "attendance_label": "in person",
-      "is_repeat": false,
-      "slug": "deep-dive-into-ocean-of-bones"
-    },
     {
       "id": "wpfw-20261116-9617",
       "title": "Screening of an Episode from Season 2 of The Poet Speaks with Amanda Eke",
@@ -289,6 +253,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-22T02:10:44.129Z",
+  "published_at": "2026-11-22T04:12:52.778Z",
   "source": "github"
 }
