@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-21T23:12:58-05:00",
+  "generated": "2026-11-22T02:42:54-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,45 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 36,
+  "count": 37,
   "events": [
+    {
+      "id": "wpfw-20261116-9617",
+      "title": "Screening of an Episode from Season 2 of The Poet Speaks with Amanda Eke",
+      "organization": "Moderated by Brian Gilmore",
+      "short_description": "Sankofa Video, Books & Café will be having a special screening of an episode from Season 2 of The Poet Speaks with Amanda Eke, a television series that uncovers the voices, histories, and creative traditions that give a city its cultural identity. Moderated by Brian Gilmore.",
+      "full_description": "",
+      "start_datetime": "2026-11-21T18:30:00-05:00",
+      "end_datetime": "2026-11-21T20:30:00-05:00",
+      "all_day": false,
+      "venue_name": "Sankofa Video Books & Cafe",
+      "street_address": "2714 Georgia Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "ticketed",
+      "cost_amount": "11",
+      "ticket_url": "https://www.sankofa.com/events/special-screening-the-poet-speaks-with-amanda-eke-season-2",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice",
+        "Youth & Education",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "series_id": "wpfw-20261116-9617",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "screening-of-an-episode-from-season-2-of-the-poet-speaks-with-amanda-e"
+    },
     {
       "id": "wpfw-20261116-6EA4",
       "title": "Deep Dive into Ocean of Bones",
@@ -1374,6 +1411,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-22T04:12:58.870Z",
+  "published_at": "2026-11-22T07:42:55.297Z",
   "source": "github"
 }
