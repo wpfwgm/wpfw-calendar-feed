@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-23T02:10:44-05:00",
+  "generated": "2026-11-23T15:10:42-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -35,8 +35,8 @@
       "id": "wpfw-20261120-AA85",
       "title": "WPFW U Street Jam",
       "organization": "WPFW",
-      "short_description": "Celebrate the holiday season with us!\n\nMusic of the 60s, 70s, 80s, 90s & today provided by our very own WPFW Programmers. Line-Up to be announced soon.\n\nFood and beverages available for purchase • Cash bar\n\nTickets: \n\n$25 General Admission\n$40 Two Tickets for One\n$250 Table (Sits 8 people)\n$10 Students (with valid id)\n\nTickets will also be available for purchase at the door the day of the event - $30 each\n\nAll proceeds to benefit WPFW 89.3 FM. Come and support this LSB event and have the time of your life!",
-      "full_description": "Celebrate the holiday season with us!\n\nMusic of the 60s, 70s, 80s, 90s & today provided by our very own WPFW Programmers. Line-Up to be announced soon.\n\nFood and beverages available for purchase • Cash bar\n\nTickets: \n\n$25 General Admission\n$40 Two Tickets for One\n$250 Table (Sits 8 people)\n$10 Students (with valid id)\n\nTickets will also be available for purchase at the door the day of the event - $30 each\n\nAll proceeds to benefit WPFW 89.3 FM. Come and support this LSB event and have the time of your life!",
+      "short_description": "Celebrate the holiday season with us!\n\nMusic of the 60s, 70s, 80s, 90s & today provided by our very own WPFW Programmers: Jas Funk. DJ Lance Reynolds, Tony Carr, Donald Temple, and more!\n\n\nFood and beverages available for purchase • Cash bar\n\nTickets: \n\n$25 General Admission\n$40 Two Tickets for One\n$250 Table (Sits 8 people)\n$10 Students (with valid id)\n\nTickets will also be available for purchase at the door the day of the event - $30 each\n\nAll proceeds to benefit WPFW 89.3 FM. Come and support this LSB event and have the time of your life!",
+      "full_description": "Celebrate the holiday season with us!\n\nMusic of the 60s, 70s, 80s, 90s & today provided by our very own WPFW Programmers: Jas Funk. DJ Lance Reynolds, Tony Carr, Donald Temple, and more!\n\nFood and beverages available for purchase • Cash bar\n\nTickets: \n\n$25 General Admission\n$40 Two Tickets for One\n$250 Table (Sits 8 people)\n$10 Students (with valid id)\n\nTickets will also be available for purchase at the door the day of the event - $30 each\n\nAll proceeds to benefit WPFW 89.3 FM. Come and support this LSB event and have the time of your life!",
       "start_datetime": "2026-12-13T17:00:00-05:00",
       "end_datetime": "2026-12-13T22:00:00-05:00",
       "all_day": false,
@@ -178,6 +178,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-23T07:10:45.450Z",
+  "published_at": "2026-11-23T20:10:44.974Z",
   "source": "github"
 }
