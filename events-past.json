@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-22T02:42:54-05:00",
+  "generated": "2026-11-23T02:10:51-05:00",
   "past": true,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,46 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 37,
+  "count": 38,
   "events": [
+    {
+      "id": "wpfw-20261109-BC58",
+      "title": "LoveSound: An Evening of Soul Sisters in Performance",
+      "organization": "Friends of the Congo, Africa World Now Project and WPFW",
+      "short_description": "Friends of the Congo, Africa World Now Project and WPFW invite you to LoveSound: An Evening of Soul Sisters in Performance to benefit the women of the Congo and WPFW on Sunday, November 22, 5-8pm at Westminster Presbyterian Church - 400 I Street, SW, Washington.",
+      "full_description": "Friends of the Congo, Africa World Now Project and WPFW invite you to LoveSound: An Evening of Soul Sisters in Performance to benefit the women of the Congo and WPFW on Sunday, November 22, 5-8pm at Westminster Presbyterian Church - 400 I Street, SW, Washington. \r\n\r\nThe evening features performances by musicians and poets including Free BenJamin, Wayna, Anna Mwalagho, Ayanna Gregory, Navasha Daya, Laini Mataka, Janelle Gill, CeLilliane Green and Sweet Honey In the Rock.\r\n\r\nThis will be an evening of upliftment of the displaced women and children in the Basandja Coalition, which constitutes local and Indigenous communities on the frontlines in the Democratic Republic of the Congo.",
+      "start_datetime": "2026-11-22T17:00:00-05:00",
+      "end_datetime": "2026-11-22T20:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Westminster Presbyterian Church",
+      "street_address": "400 I Street, SW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20002",
+      "online_url": "",
+      "cost_type": "ticketed",
+      "cost_amount": "50",
+      "ticket_url": "https://www.eventbrite.com/e/lovesound-an-evening-of-soul-sisters-in-performance-tickets-2004450749149?aff=oddtdtcreator",
+      "category": "Racial Justice",
+      "tags": [
+        "Racial Justice",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": true,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [
+        "Free parking"
+      ],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "series_id": "wpfw-20261109-BC58",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "lovesound-an-evening-of-soul-sisters-in-performance"
+    },
     {
       "id": "wpfw-20261116-9617",
       "title": "Screening of an Episode from Season 2 of The Poet Speaks with Amanda Eke",
@@ -1411,6 +1449,6 @@
       "slug": "community-organizing-fellowship"
     }
   ],
-  "published_at": "2026-11-22T07:42:55.297Z",
+  "published_at": "2026-11-23T07:10:52.844Z",
   "source": "github"
 }
