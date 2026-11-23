@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-23T15:10:42-05:00",
+  "generated": "2026-11-23T17:18:03-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,8 +29,44 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 4,
+  "count": 5,
   "events": [
+    {
+      "id": "wpfw-20261123-2F42",
+      "title": "Community Thanksgiving Lunch",
+      "organization": "Busboys and Poets in Anacostia",
+      "short_description": "On Thursday, November 26th, from 11 AM to 2 PM, Busboys and Poets in Anacostia hosts a free community Thanksgiving lunch. The sit-down meal is open to the public and will include live music and fellowship. No reservations are required.",
+      "full_description": "",
+      "start_datetime": "2026-11-26T11:00:00-05:00",
+      "end_datetime": "2026-11-26T14:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Busboys and Poets in Anacostia",
+      "street_address": "2004 Martin Luther King Jr. Avenue, Southeast",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://www.busboysandpoets.com/events-list/",
+      "category": "Food Justice",
+      "tags": [
+        "Food Justice",
+        "Health & Healing"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "series_id": "wpfw-20261123-2F42",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "community-thanksgiving-lunch"
+    },
     {
       "id": "wpfw-20261120-AA85",
       "title": "WPFW U Street Jam",
@@ -178,6 +214,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-23T20:10:44.974Z",
+  "published_at": "2026-11-23T22:18:04.103Z",
   "source": "github"
 }
