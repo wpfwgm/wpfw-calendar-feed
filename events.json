@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated": "2026-11-23T17:18:22-05:00",
+  "generated": "2026-11-23T17:18:36-05:00",
   "past": false,
   "cached": false,
   "disclaimer": "The Social Justice Calendar is a partnership between WPFW 89.3 FM and the Diverse City Fund. Listings are submitted by the community and provided as a public service. A listing is not an endorsement by WPFW 89.3 FM, Pacifica Foundation Radio, or the Diverse City Fund. Listing is free and cannot be purchased.",
@@ -29,7 +29,7 @@
   ],
   "dcf_label": "Diverse City Fund grantee",
   "station_label": "WPFW station events",
-  "count": 6,
+  "count": 7,
   "events": [
     {
       "id": "wpfw-20261123-2F42",
@@ -103,6 +103,42 @@
       "attendance_label": "in person",
       "is_repeat": false,
       "slug": "umoja-karamu-unity-feast"
+    },
+    {
+      "id": "wpfw-20261123-E527",
+      "title": "Gaza on Our Mind",
+      "organization": "Sankofa Video Books & Cafe",
+      "short_description": "On Sunday, November 29th, from 6 to 8 PM, Haile Gerima and Sankofa Video & Books present Gaza on Our Mind, an evening of artistic expression and protest.",
+      "full_description": "",
+      "start_datetime": "2026-11-29T18:00:00-05:00",
+      "end_datetime": "2026-11-29T20:00:00-05:00",
+      "all_day": false,
+      "venue_name": "Sankofa Video Books & Cafe",
+      "street_address": "2714 Georgia Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "",
+      "online_url": "",
+      "cost_type": "free",
+      "cost_amount": "",
+      "ticket_url": "https://www.sankofa.com/events/gaza-on-our-mind-15",
+      "category": "Youth & Education",
+      "tags": [
+        "Youth & Education",
+        "Arts & Culture"
+      ],
+      "dcf_grantee": false,
+      "station_event": false,
+      "image_url": "",
+      "accessibility_notes": "",
+      "access_features": [],
+      "attendance_mode": "in_person",
+      "public_contact": "",
+      "series_id": "wpfw-20261123-E527",
+      "date_tbc": false,
+      "attendance_label": "in person",
+      "is_repeat": false,
+      "slug": "gaza-on-our-mind"
     },
     {
       "id": "wpfw-20261120-AA85",
@@ -251,6 +287,6 @@
       "slug": "wpfw-50th-anniversary-gala-efbf"
     }
   ],
-  "published_at": "2026-11-23T22:18:22.674Z",
+  "published_at": "2026-11-23T22:18:36.577Z",
   "source": "github"
 }
